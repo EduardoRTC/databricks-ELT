@@ -1,0 +1,1001 @@
+venda_id,data,vendedor_id,vendedor_nome,produto_id,produto_nome,categoria,preco_unit,qtd,desconto,canal,cidade,estado,comentarios
+1,07-10-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,7.0,0.01,loja_fisica,Rio de Janeiro,RJ,
+2,21-01-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,2.0,0.03,ecommerce,Silveira do Campo,DF,Consequatur porro ipsum velit impedit nulla neque vitae accusamus maxime possimus officia eum est in.
+3,07-11-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,10.0,0.03,ecommerce,Costela da Prata,RJ,Dicta eveniet eius soluta aspernatur quidem nostrum modi sint cumque nisi ullam veritatis molestias voluptatum rerum vel ipsam praesentium.
+4,05-09-2024,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,8.0,0.17,loja_fisica,Belo Horizonte,MG,
+5,01-08-2024,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,10.0,0.27,loja_fisica,Belo Horizonte,MG,Aperiam similique itaque dicta ullam dolorum mollitia ipsa qui aliquid nemo explicabo sapiente ex in.
+6,28-12-2024,,,104,Camisa Polo,Vestuário,120.0,3.0,0.15,ecommerce,Vasconcelos do Campo,DF,Necessitatibus dolorem quo doloremque iste officia illum quibusdam doloremque.
+7,17-05-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.18,loja_fisica,Belo Horizonte,MG,
+8,05-11-2024,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.06,loja_fisica,Curitiba,PR,Provident eveniet minus qui nihil incidunt est vel quas.
+9,15-04-2025,,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,3.0,0.26,loja_fisica,Rio de Janeiro,RJ,Sed nobis distinctio unde quaerat perspiciatis enim labore veniam asperiores id cumque distinctio magnam temporibus minus illo.
+10,11-03-2025,3.0,Carlos Pereira,103,Tênis Corrida,Calçados,350.0,8.0,0.02,loja_fisica,Curitiba,PR,
+11,26-05-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,4.0,,loja_fisica,Curitiba,PR,
+12,20-10-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.02,ecommerce,Siqueira,PA,
+13,29-03-2025,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,4.0,0.27,loja_fisica,Belo Horizonte,MG,Cum voluptates expedita labore cumque et distinctio unde labore.
+14,24-12-2024,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,5.0,0.24,loja_fisica,Salvador,BA,Numquam numquam aliquid eius minima consequatur quos excepturi quasi enim suscipit.
+15,17-04-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,0.04,ecommerce,da Cruz,SE,Commodi minima deserunt sint fuga perferendis facere ratione sit tempora ab veritatis atque.
+16,13-09-2024,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,6.0,0.08,loja_fisica,Belo Horizonte,MG,
+17,19-05-2025,3.0,,101,Notebook X1,Eletrônicos,3500.0,8.0,0.21,loja_fisica,Curitiba,PR,
+18,24-07-2025,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,5.0,,loja_fisica,Salvador,BA,Et aut temporibus rem maiores accusamus mollitia in quia accusamus itaque ab explicabo accusantium excepturi delectus et eius quis debitis iste illo minima dolore unde.
+19,23-07-2025,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,9.0,,loja_fisica,Curitiba,PR,
+20,18-09-2024,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,10.0,0.09,loja_fisica,Curitiba,PR,Iure quibusdam omnis vel voluptatem quis dicta quis explicabo corporis.
+21,30-11-2024,,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,9.0,0.11,loja_fisica,Curitiba,PR,Accusantium quam minus impedit quas laborum ipsa dolore modi optio aliquam iure.
+22,01-07-2025,3.0,,104,Camisa Polo,Vestuário,120.0,4.0,0.24,loja_fisica,Curitiba,PR,Veniam numquam magnam natus facilis vero ab cum necessitatibus nam ex voluptatibus.
+23,15-01-2025,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.15,loja_fisica,Curitiba,PR,
+24,23-08-2024,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,6.0,0.08,loja_fisica,Curitiba,PR,
+25,17-08-2024,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,10.0,0.04,loja_fisica,São Paulo,SP,
+26,01-08-2024,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.22,loja_fisica,Rio de Janeiro,RJ,
+27,25-12-2024,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.29,loja_fisica,Rio de Janeiro,RJ,
+28,17-12-2024,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,3.0,0.16,loja_fisica,São Paulo,SP,
+29,09-06-2025,1.0,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,0.24,loja_fisica,São Paulo,SP,Commodi atque commodi mollitia officia veritatis reiciendis atque consequatur cupiditate incidunt esse nulla maxime voluptatem.
+30,19-04-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,0.26,loja_fisica,Belo Horizonte,MG,
+31,22-02-2025,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,4.0,0.1,loja_fisica,São Paulo,SP,Tempore tempore occaecati id nulla sequi numquam vel distinctio labore.
+32,12-09-2024,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.02,loja_fisica,Belo Horizonte,MG,
+33,19-09-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,9.0,0.03,ecommerce,Rezende de Ribeiro,CE,
+34,26-06-2025,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,3.0,0.04,loja_fisica,Rio de Janeiro,RJ,Magni iusto porro odit quaerat assumenda quia quibusdam atque quibusdam animi cumque natus ratione deserunt necessitatibus molestiae expedita aspernatur modi dolores.
+35,16-03-2025,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,1.0,0.16,loja_fisica,Belo Horizonte,MG,Odit pariatur unde tenetur ipsa ratione molestiae enim ea culpa hic autem dicta sed sapiente aspernatur non quaerat ab.
+36,24-03-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,4.0,0.2,loja_fisica,Curitiba,PR,
+37,15-02-2025,3.0,,105,Smartphone A9,Eletrônicos,2800.0,1.0,0.08,loja_fisica,Curitiba,PR,
+38,15-08-2024,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.13,loja_fisica,Curitiba,PR,Magnam veniam blanditiis at et nihil accusamus dolor odio libero doloribus nesciunt enim consequuntur possimus perferendis quod commodi ab dolor veniam libero dolorum deserunt corrupti.
+39,11-05-2025,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,0.25,loja_fisica,Belo Horizonte,MG,Ut error explicabo eveniet voluptate exercitationem sint laboriosam occaecati neque non voluptas minus quaerat corrupti exercitationem maxime odit ipsam.
+40,09-07-2025,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,7.0,0.18,loja_fisica,Belo Horizonte,MG,
+41,26-07-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,4.0,0.08,ecommerce,Rezende dos Dourados,PR,Iusto similique ut maxime sit dolor architecto praesentium.
+42,21-11-2024,,,108,Tablet T10,Eletrônicos,1500.0,4.0,,ecommerce,Barbosa,PR,Incidunt debitis soluta aspernatur assumenda exercitationem sequi deserunt reprehenderit incidunt est.
+43,05-05-2025,4.0,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,4.0,0.16,loja_fisica,Salvador,BA,
+44,10-10-2024,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,4.0,0.15,loja_fisica,Rio de Janeiro,RJ,
+45,29-10-2024,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,1.0,0.14,loja_fisica,Salvador,BA,
+46,31-05-2025,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,10.0,0.15,loja_fisica,São Paulo,SP,Aliquam cupiditate ullam debitis blanditiis fuga ipsam nihil ducimus voluptates temporibus porro ea.
+47,24-04-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.29,loja_fisica,Belo Horizonte,MG,
+48,25-04-2025,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.27,loja_fisica,Rio de Janeiro,RJ,Explicabo reiciendis reiciendis ab ullam maxime culpa quasi omnis.
+49,25-10-2024,3.0,Carlos Pereira,103,Tênis Corrida,Calçados,350.0,7.0,0.17,loja_fisica,Curitiba,PR,Amet labore reprehenderit facilis illo error neque laboriosam odio eligendi.
+50,13-05-2025,,João Silva,101,Notebook X1,Eletrônicos,,10.0,0.27,loja_fisica,São Paulo,SP,Ea iusto numquam mollitia quae optio optio eligendi illum ullam voluptates magnam ipsam.
+51,07-01-2025,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,6.0,0.06,loja_fisica,Rio de Janeiro,RJ,
+52,13-12-2024,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,10.0,0.11,loja_fisica,Rio de Janeiro,RJ,Nobis porro maxime doloribus consequatur veniam velit consequatur nostrum asperiores animi recusandae.
+53,08-04-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.21,loja_fisica,Curitiba,PR,
+54,08-03-2025,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,,1.0,0.16,loja_fisica,Rio de Janeiro,RJ,
+55,14-03-2025,2.0,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,5.0,0.26,loja_fisica,Rio de Janeiro,RJ,
+56,04-10-2024,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,7.0,0.19,loja_fisica,Rio de Janeiro,RJ,
+57,14-09-2024,1.0,João Silva,104,Camisa Polo,Vestuário,120.0,1.0,0.13,loja_fisica,São Paulo,SP,
+58,21-09-2024,,,101,Notebook X1,Eletrônicos,3500.0,8.0,0.15,ecommerce,Alves da Mata,CE,Recusandae numquam aut labore aperiam neque omnis culpa facilis velit totam laborum ipsam inventore voluptatibus esse quas pariatur possimus esse nobis sit harum iste nihil quia.
+59,24-12-2024,2.0,Maria Souza,101,Notebook X1,Eletrônicos,3500.0,8.0,0.07,loja_fisica,Rio de Janeiro,RJ,Doloribus accusantium magni perspiciatis necessitatibus sit quasi placeat eius.
+60,22-05-2025,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,10.0,0.24,loja_fisica,São Paulo,SP,
+61,01-06-2025,,,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.03,ecommerce,Viana das Pedras,MG,
+62,05-03-2025,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,4.0,0.05,loja_fisica,Curitiba,PR,
+63,29-06-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,5.0,0.23,loja_fisica,Curitiba,PR,
+64,29-01-2025,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,9.0,0.1,loja_fisica,Belo Horizonte,MG,
+65,11-09-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,6.0,0.11,ecommerce,Ramos da Mata,RN,Omnis hic dignissimos excepturi enim dolores quidem accusantium consequatur expedita ut.
+66,21-07-2025,,,104,Camisa Polo,Vestuário,120.0,1.0,0.09,ecommerce,Cunha da Praia,AM,
+67,15-01-2025,1.0,,103,Tênis Corrida,Calçados,350.0,8.0,,loja_fisica,São Paulo,SP,
+68,14-10-2024,2.0,,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.16,loja_fisica,Rio de Janeiro,RJ,
+69,27-02-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,8.0,0.06,loja_fisica,Curitiba,PR,Iusto magni exercitationem mollitia repudiandae ad sequi fugiat atque voluptatum ab facere.
+70,01-04-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,5.0,0.14,ecommerce,da Cunha,PA,
+71,15-07-2025,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,6.0,0.14,loja_fisica,Salvador,BA,
+72,02-07-2025,2.0,Maria Souza,101,Notebook X1,Eletrônicos,3500.0,5.0,0.11,loja_fisica,Rio de Janeiro,RJ,
+73,12-01-2025,2.0,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,0.23,loja_fisica,Rio de Janeiro,RJ,
+74,24-04-2025,,,101,Notebook X1,Eletrônicos,3500.0,7.0,0.02,ecommerce,Porto,PE,
+75,30-12-2024,,,104,Camisa Polo,Vestuário,120.0,10.0,0.1,ecommerce,Duarte do Galho,PB,Quod iure repellendus magni assumenda ut id cupiditate consequuntur labore voluptatibus.
+76,16-12-2024,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,,5.0,0.13,loja_fisica,Salvador,BA,
+77,12-02-2025,2.0,,110,Fone Bluetooth B1,Eletrônicos,200.0,3.0,,loja_fisica,Rio de Janeiro,RJ,Quia animi dolorem qui aut aliquam natus deleniti mollitia necessitatibus incidunt similique temporibus asperiores voluptas.
+78,12-12-2024,4.0,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.18,loja_fisica,Salvador,BA,
+79,31-12-2024,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,6.0,0.02,loja_fisica,Rio de Janeiro,RJ,
+80,08-09-2024,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,4.0,0.23,loja_fisica,Curitiba,PR,Magni sed excepturi deleniti nam iure a porro a consequuntur magnam accusamus iusto voluptate magni a.
+81,08-04-2025,,,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.02,ecommerce,Moraes,RS,
+82,16-04-2025,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,6.0,0.3,loja_fisica,Belo Horizonte,MG,
+83,11-04-2025,1.0,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,0.05,loja_fisica,São Paulo,SP,
+84,13-02-2025,,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,3.0,0.22,loja_fisica,Salvador,BA,
+85,01-11-2024,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,9.0,0.07,loja_fisica,Belo Horizonte,MG,
+86,10-07-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,0.08,ecommerce,Pacheco,AP,
+87,04-08-2024,,,101,Notebook X1,Eletrônicos,3500.0,2.0,0.08,ecommerce,Cirino,AL,Ratione sunt recusandae cupiditate nisi dignissimos quae accusantium voluptatum dolores nulla iure.
+88,25-11-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,9.0,0.07,ecommerce,Sousa,RS,
+89,28-01-2025,1.0,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,5.0,0.19,loja_fisica,São Paulo,SP,
+90,02-10-2024,,,108,Tablet T10,Eletrônicos,1500.0,10.0,0.08,ecommerce,Freitas do Sul,AP,
+91,20-05-2025,5.0,,106,Headset Gamer H1,Eletrônicos,450.0,10.0,0.19,loja_fisica,Belo Horizonte,MG,
+92,06-08-2024,,,101,Notebook X1,Eletrônicos,3500.0,7.0,,ecommerce,,,Incidunt vero laborum excepturi aliquid veniam aperiam ratione unde cum voluptatibus quasi ea sequi culpa perferendis qui.
+93,24-05-2025,,João Silva,101,Notebook X1,Eletrônicos,3500.0,10.0,0.08,loja_fisica,São Paulo,SP,Accusamus maiores optio at ipsa facilis fuga eveniet iusto eum error hic fuga consectetur id est tempora aspernatur natus.
+94,22-01-2025,,,101,Notebook X1,Eletrônicos,3500.0,2.0,0.09,ecommerce,Azevedo,PB,Possimus rem nesciunt necessitatibus at voluptate magnam blanditiis necessitatibus nisi officia odio dicta cupiditate a.
+95,01-08-2024,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,4.0,0.27,loja_fisica,Curitiba,PR,
+96,01-04-2025,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,10.0,0.26,loja_fisica,Belo Horizonte,MG,Ullam a earum corporis repudiandae quibusdam eaque et nihil nulla deleniti tenetur recusandae suscipit ratione esse ad.
+97,12-03-2025,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,6.0,,loja_fisica,Curitiba,PR,Officia libero eligendi fuga eum perferendis minima quo quis delectus nemo.
+98,22-02-2025,5.0,Fernando Costa,104,Camisa Polo,Vestuário,120.0,6.0,0.01,loja_fisica,Belo Horizonte,MG,
+99,12-05-2025,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,2.0,0.11,loja_fisica,Salvador,BA,Mollitia ipsa non aperiam fuga consequatur explicabo sunt quidem natus hic accusamus.
+100,05-11-2024,,,101,Notebook X1,Eletrônicos,3500.0,2.0,0.03,ecommerce,Cassiano,PI,
+101,26-01-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.07,ecommerce,Rocha,RR,
+102,31-05-2025,,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,7.0,0.22,loja_fisica,Rio de Janeiro,RJ,Nemo fugit quidem soluta tempore tenetur laborum corrupti veniam deserunt asperiores earum explicabo.
+103,08-03-2025,4.0,Ana Oliveira,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.18,loja_fisica,Salvador,BA,
+104,04-07-2025,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,3.0,0.17,loja_fisica,São Paulo,SP,
+105,09-03-2025,4.0,Ana Oliveira,110,Fone Bluetooth B1,Eletrônicos,200.0,,0.13,loja_fisica,Salvador,BA,Perferendis ab tempora distinctio neque ipsum molestias in nisi magnam dolor facilis odio corrupti vel.
+106,13-03-2025,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,4.0,0.11,loja_fisica,Rio de Janeiro,RJ,
+107,27-01-2025,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.29,loja_fisica,Rio de Janeiro,RJ,
+108,22-09-2024,5.0,,108,Tablet T10,Eletrônicos,1500.0,9.0,0.12,loja_fisica,Belo Horizonte,MG,
+109,19-07-2025,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,4.0,0.14,loja_fisica,Belo Horizonte,MG,Rerum mollitia quod rerum alias dolorum corrupti quibusdam reiciendis hic occaecati est dicta voluptate aliquid.
+110,09-01-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,5.0,,ecommerce,Melo do Norte,MG,
+111,20-04-2025,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,2.0,0.14,loja_fisica,Salvador,BA,Suscipit reprehenderit aspernatur asperiores dicta neque voluptate.
+112,01-12-2024,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,9.0,0.27,loja_fisica,Belo Horizonte,MG,Quos adipisci dolore rerum illum quod fugit corrupti possimus est odio laboriosam delectus asperiores odio.
+113,13-08-2024,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.0,loja_fisica,Belo Horizonte,MG,
+114,02-05-2025,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,6.0,0.19,loja_fisica,Salvador,BA,Hic soluta veniam voluptatibus ab doloremque ad expedita quis perferendis vitae repellendus sequi.
+115,08-01-2025,,,108,Tablet T10,Eletrônicos,1500.0,10.0,0.07,ecommerce,da Mata do Sul,MG,
+116,10-10-2024,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,5.0,0.17,loja_fisica,São Paulo,SP,
+117,01-09-2024,,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,7.0,0.14,loja_fisica,São Paulo,SP,Architecto corrupti ratione laboriosam voluptas harum aspernatur doloremque laudantium assumenda reprehenderit tempore odit ea praesentium praesentium commodi quod eaque harum.
+118,28-01-2025,4.0,Ana Oliveira,101,Notebook X1,Eletrônicos,3500.0,7.0,0.09,loja_fisica,Salvador,BA,
+119,28-05-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,10.0,0.01,ecommerce,Rocha,DF,
+120,03-08-2024,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,2.0,0.0,loja_fisica,Curitiba,PR,
+121,25-04-2025,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,8.0,0.14,loja_fisica,Rio de Janeiro,RJ,Sed culpa iste ea animi minima assumenda atque suscipit animi fuga fuga optio nobis nihil.
+122,22-01-2025,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.06,loja_fisica,Curitiba,PR,Cupiditate quasi commodi numquam alias in numquam tempora eum quo modi molestias corporis totam.
+123,09-08-2024,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,1.0,0.04,loja_fisica,Belo Horizonte,MG,
+124,17-03-2025,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,7.0,,loja_fisica,Salvador,BA,Quisquam asperiores saepe nisi doloribus modi veniam facere adipisci nihil reprehenderit.
+125,24-03-2025,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,9.0,0.02,loja_fisica,Curitiba,PR,
+126,03-04-2025,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,9.0,0.12,loja_fisica,São Paulo,SP,
+127,10-12-2024,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,7.0,0.12,loja_fisica,Curitiba,PR,
+128,08-10-2024,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,7.0,0.24,loja_fisica,Rio de Janeiro,RJ,
+129,05-07-2025,,,104,Camisa Polo,Vestuário,120.0,9.0,0.14,ecommerce,Câmara,RJ,
+130,18-07-2025,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,3.0,0.23,loja_fisica,Belo Horizonte,MG,Consequatur magni eos eligendi alias et animi dignissimos amet excepturi optio dolor saepe consequuntur veritatis.
+131,23-12-2024,,,103,Tênis Corrida,Calçados,350.0,3.0,0.0,ecommerce,Câmara das Flores,CE,
+132,08-12-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,0.13,ecommerce,Farias da Mata,PR,
+133,10-11-2024,,,108,Tablet T10,Eletrônicos,1500.0,3.0,0.01,ecommerce,Pacheco Alegre,RS,
+134,25-08-2024,,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.02,loja_fisica,Rio de Janeiro,RJ,
+135,18-03-2025,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,10.0,0.26,loja_fisica,Rio de Janeiro,RJ,Ex repellat tempore dicta consectetur quasi dignissimos at ratione laborum aliquam delectus reprehenderit quae explicabo maiores consequatur architecto nihil at veniam est debitis vero quibusdam repellat.
+136,30-05-2025,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,9.0,,loja_fisica,Rio de Janeiro,RJ,
+137,21-03-2025,,Maria Souza,104,Camisa Polo,Vestuário,120.0,5.0,0.25,loja_fisica,Rio de Janeiro,RJ,
+138,06-02-2025,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,8.0,0.16,loja_fisica,São Paulo,SP,
+139,07-10-2024,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,7.0,0.06,loja_fisica,Rio de Janeiro,RJ,Beatae ipsum distinctio alias animi cumque ratione perspiciatis laborum at.
+140,26-09-2024,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,1.0,0.14,loja_fisica,São Paulo,SP,Vel reprehenderit veritatis iusto eius cum similique ut corporis accusantium quae quasi occaecati cum repellendus quaerat placeat.
+141,19-12-2024,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,6.0,0.05,loja_fisica,Curitiba,PR,Cum nemo autem adipisci nulla similique ab nemo odio eveniet.
+142,10-12-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,1.0,0.07,loja_fisica,Rio de Janeiro,RJ,Nostrum distinctio esse sequi modi ex aliquam temporibus exercitationem ducimus.
+143,05-12-2024,4.0,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,10.0,,loja_fisica,Salvador,BA,Quaerat quidem culpa voluptatem saepe dicta molestias nobis officiis occaecati praesentium consequatur nihil eligendi nesciunt rem tempore minima facilis unde.
+144,21-06-2025,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,6.0,0.29,loja_fisica,Curitiba,PR,Quo sint delectus repellat illum quos consequuntur corporis repudiandae consequatur quisquam fugiat in nihil ratione laudantium totam quia architecto sapiente.
+145,21-08-2024,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,1.0,0.0,loja_fisica,São Paulo,SP,
+146,17-03-2025,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,7.0,0.1,loja_fisica,Curitiba,PR,
+147,25-12-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,8.0,0.09,ecommerce,das Neves,SE,
+148,09-10-2024,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.0,loja_fisica,Salvador,BA,Saepe enim ratione deserunt dignissimos magni ex asperiores repellendus voluptas possimus assumenda sunt placeat.
+149,30-10-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,1.0,0.04,ecommerce,Ferreira,AL,
+150,22-08-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,10.0,0.01,ecommerce,Aparecida dos Dourados,DF,
+151,18-07-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,8.0,,ecommerce,Brito da Serra,SC,
+152,27-01-2025,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,9.0,0.2,loja_fisica,Salvador,BA,Consequuntur fuga a nihil facilis ipsam ex possimus voluptate amet.
+153,08-12-2024,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,10.0,0.06,loja_fisica,São Paulo,SP,
+154,09-05-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.08,ecommerce,Fogaça de Goiás,AP,
+155,17-04-2025,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,10.0,0.03,loja_fisica,Belo Horizonte,MG,
+156,18-12-2024,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.25,loja_fisica,São Paulo,SP,Odit deserunt tenetur facilis officiis illum porro saepe cum aperiam veritatis quae porro sint.
+157,17-12-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.07,ecommerce,,,
+158,23-10-2024,,,108,Tablet T10,Eletrônicos,1500.0,6.0,0.07,ecommerce,Gomes Alegre,AL,
+159,02-02-2025,,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.25,loja_fisica,Belo Horizonte,MG,
+160,21-03-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.26,loja_fisica,Curitiba,PR,Assumenda ea perspiciatis amet incidunt repellat consequuntur harum.
+161,03-06-2025,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,7.0,0.27,loja_fisica,Belo Horizonte,MG,
+162,08-05-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,10.0,0.01,ecommerce,Câmara de Câmara,SE,
+163,28-05-2025,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,6.0,0.2,loja_fisica,São Paulo,SP,
+164,22-07-2025,,,103,Tênis Corrida,Calçados,350.0,,0.01,ecommerce,da Conceição de Melo,PE,
+165,23-07-2025,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,0.05,loja_fisica,Curitiba,PR,
+166,07-12-2024,,,104,Camisa Polo,Vestuário,120.0,6.0,0.02,ecommerce,Leão de Souza,AC,
+167,03-06-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.02,ecommerce,Gomes do Amparo,RN,
+168,18-10-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,0.13,ecommerce,Almeida de Peixoto,PR,Iste minima itaque fuga explicabo dolorem voluptatum at non quae deserunt fugit.
+169,16-07-2025,,,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.03,ecommerce,Cirino,AM,
+170,13-04-2025,1.0,João Silva,109,Liquidificador X,Eletrodomésticos,300.0,8.0,0.27,loja_fisica,São Paulo,SP,
+171,03-04-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.14,ecommerce,Ribeiro de Siqueira,MA,
+172,25-05-2025,5.0,,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.28,loja_fisica,Belo Horizonte,MG,Ut excepturi molestias esse modi a officia et odio minus ratione quis.
+173,04-03-2025,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,9.0,,loja_fisica,Rio de Janeiro,RJ,
+174,18-05-2025,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,1.0,0.28,loja_fisica,São Paulo,SP,Quis ea modi error tenetur dolores veritatis cumque modi dolores commodi explicabo dolor beatae distinctio alias fugit dolorem explicabo labore.
+175,22-07-2025,,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,1.0,0.27,loja_fisica,Belo Horizonte,MG,
+176,21-08-2024,,,103,Tênis Corrida,Calçados,350.0,9.0,0.02,ecommerce,Alves,MS,
+177,17-10-2024,,,104,Camisa Polo,Vestuário,120.0,4.0,0.05,ecommerce,Nunes,TO,
+178,07-07-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,4.0,0.26,loja_fisica,Curitiba,PR,Debitis adipisci magni id autem odit cumque delectus consequatur animi veritatis ad error perferendis quam architecto dolores et ad repudiandae.
+179,08-05-2025,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,3.0,,loja_fisica,Belo Horizonte,MG,
+180,23-10-2024,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.07,loja_fisica,São Paulo,SP,
+181,13-09-2024,2.0,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,0.26,loja_fisica,Rio de Janeiro,RJ,
+182,22-04-2025,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,4.0,0.26,loja_fisica,Salvador,BA,
+183,05-11-2024,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,2.0,0.02,loja_fisica,Salvador,BA,
+184,24-05-2025,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.14,loja_fisica,Rio de Janeiro,RJ,
+185,28-01-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,6.0,,loja_fisica,Curitiba,PR,
+186,01-11-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,,3.0,0.21,loja_fisica,Rio de Janeiro,RJ,
+187,24-02-2025,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.05,loja_fisica,Belo Horizonte,MG,Vitae fuga placeat placeat ratione ex quae nemo.
+188,04-01-2025,3.0,Carlos Pereira,104,Camisa Polo,Vestuário,120.0,9.0,0.13,loja_fisica,Curitiba,PR,
+189,16-07-2025,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.18,loja_fisica,Salvador,BA,Quaerat dolorem neque iste ab voluptatibus laborum.
+190,10-07-2025,2.0,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.22,loja_fisica,Rio de Janeiro,RJ,Delectus omnis natus non ea ullam libero eius ab quasi odit iste doloremque.
+191,14-12-2024,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,7.0,0.06,loja_fisica,São Paulo,SP,
+192,04-05-2025,,,103,Tênis Corrida,Calçados,350.0,1.0,0.09,ecommerce,Freitas da Prata,BA,
+193,22-03-2025,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,8.0,,loja_fisica,Curitiba,PR,A sapiente accusamus provident nobis vel ipsam esse exercitationem ipsam doloremque voluptatum a magni incidunt quaerat odit neque placeat eveniet quisquam fugit.
+194,04-03-2025,2.0,Maria Souza,101,Notebook X1,Eletrônicos,,8.0,0.1,loja_fisica,Rio de Janeiro,RJ,
+195,31-12-2024,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,1.0,0.2,loja_fisica,Curitiba,PR,
+196,03-02-2025,3.0,Carlos Pereira,104,Camisa Polo,Vestuário,120.0,4.0,0.21,loja_fisica,Curitiba,PR,Quis eum ex omnis id dicta dolorum dolorum a ullam ratione perferendis earum in.
+197,23-11-2024,,,103,Tênis Corrida,Calçados,350.0,8.0,0.09,ecommerce,Vasconcelos,GO,
+198,04-12-2024,,,108,Tablet T10,Eletrônicos,1500.0,4.0,0.04,ecommerce,Sá,SC,Id facilis quae alias dolorem iure velit laborum nisi voluptatum pariatur impedit.
+199,01-03-2025,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,9.0,0.12,loja_fisica,São Paulo,SP,Dolore suscipit recusandae nesciunt dolore saepe expedita sunt nam minus perferendis quam autem.
+200,05-11-2024,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,1.0,0.09,loja_fisica,São Paulo,SP,
+201,07-08-2024,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,6.0,0.24,loja_fisica,Belo Horizonte,MG,Omnis nemo incidunt fugit iste deserunt aliquid nihil delectus.
+202,05-05-2025,4.0,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,5.0,0.1,loja_fisica,Salvador,BA,Repellat incidunt animi dolor nam nihil minima.
+203,23-08-2024,,,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.04,ecommerce,da Mota,PR,Assumenda ipsa ullam hic earum vero nesciunt possimus odit soluta hic nam totam omnis occaecati aliquid delectus.
+204,13-10-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,0.05,ecommerce,Rocha,RO,Perferendis quae quidem commodi quae fuga inventore rerum aspernatur.
+205,21-11-2024,,,103,Tênis Corrida,Calçados,350.0,4.0,0.09,ecommerce,Silva,BA,Ad distinctio aliquid aperiam magni ut eveniet cum quo magnam non provident consequuntur aperiam iste.
+206,24-03-2025,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,3.0,0.1,loja_fisica,Salvador,BA,
+207,26-01-2025,3.0,,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.02,loja_fisica,Curitiba,PR,
+208,12-03-2025,3.0,,105,Smartphone A9,Eletrônicos,2800.0,3.0,0.29,loja_fisica,Curitiba,PR,
+209,07-03-2025,5.0,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,4.0,0.15,loja_fisica,Belo Horizonte,MG,
+210,13-02-2025,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.23,loja_fisica,São Paulo,SP,
+211,20-11-2024,,,104,Camisa Polo,Vestuário,120.0,8.0,0.08,ecommerce,Peixoto do Galho,PE,Debitis consectetur unde illum facere quam consectetur optio perspiciatis nesciunt nam occaecati nisi enim beatae iure.
+212,22-05-2025,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,9.0,,loja_fisica,Salvador,BA,Numquam mollitia rerum fugiat deleniti assumenda nisi temporibus accusantium quae vel atque sequi eum unde quia ex eum vero aperiam iusto reiciendis.
+213,09-02-2025,2.0,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,1.0,,loja_fisica,Rio de Janeiro,RJ,
+214,04-12-2024,,,103,Tênis Corrida,Calçados,350.0,4.0,0.04,ecommerce,,,
+215,04-05-2025,1.0,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,0.27,loja_fisica,São Paulo,SP,
+216,08-01-2025,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,5.0,0.28,loja_fisica,Rio de Janeiro,RJ,Sed quae necessitatibus at eos quas atque placeat sequi quos ab consequuntur quam vitae repellat libero consectetur tempora fuga fugiat laboriosam similique.
+217,06-11-2024,,,103,Tênis Corrida,Calçados,350.0,7.0,0.01,ecommerce,Oliveira,PB,
+218,25-01-2025,1.0,João Silva,109,Liquidificador X,Eletrodomésticos,300.0,8.0,0.21,loja_fisica,São Paulo,SP,
+219,28-03-2025,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,7.0,0.24,loja_fisica,Salvador,BA,
+220,26-11-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,9.0,0.07,ecommerce,Pacheco,SE,
+221,07-10-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,9.0,0.18,loja_fisica,Rio de Janeiro,RJ,
+222,19-12-2024,3.0,Carlos Pereira,104,Camisa Polo,Vestuário,120.0,7.0,0.23,loja_fisica,Curitiba,PR,
+223,11-12-2024,,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,6.0,0.28,loja_fisica,Salvador,BA,Vitae suscipit amet soluta laboriosam rerum dolorem at minima fugiat optio excepturi facere quisquam adipisci labore quos.
+224,26-11-2024,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,2.0,0.12,loja_fisica,Belo Horizonte,MG,
+225,31-05-2025,4.0,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,1.0,,loja_fisica,Salvador,BA,
+226,08-09-2024,,João Silva,101,Notebook X1,Eletrônicos,3500.0,7.0,0.16,loja_fisica,São Paulo,SP,Officiis occaecati et veniam aspernatur numquam sunt iure culpa error at fugiat quam.
+227,12-10-2024,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,2.0,0.05,loja_fisica,Belo Horizonte,MG,
+228,23-02-2025,1.0,João Silva,101,Notebook X1,Eletrônicos,,4.0,0.2,loja_fisica,São Paulo,SP,Labore architecto vel excepturi qui natus officiis unde iste non atque incidunt expedita nemo ea voluptatem.
+229,06-09-2024,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.18,loja_fisica,Curitiba,PR,
+230,12-01-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,2.0,,ecommerce,Sales,RS,
+231,27-11-2024,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,4.0,0.14,loja_fisica,Belo Horizonte,MG,
+232,01-11-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,4.0,0.11,ecommerce,Lima Alegre,PR,
+233,22-03-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,10.0,0.03,loja_fisica,Curitiba,PR,
+234,27-10-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,5.0,0.08,ecommerce,Cassiano do Galho,AP,
+235,09-10-2024,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,6.0,0.13,loja_fisica,São Paulo,SP,Quod atque architecto beatae error eum nulla consectetur magnam totam.
+236,16-05-2025,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,10.0,,loja_fisica,São Paulo,SP,Eveniet consequuntur atque voluptate similique dolore iusto reprehenderit expedita maxime odio.
+237,20-11-2024,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.25,loja_fisica,Belo Horizonte,MG,
+238,05-12-2024,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,6.0,0.18,loja_fisica,Salvador,BA,
+239,16-10-2024,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,8.0,0.09,loja_fisica,Curitiba,PR,
+240,13-10-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,7.0,0.09,ecommerce,Monteiro dos Dourados,AM,
+241,16-07-2025,,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.16,loja_fisica,Rio de Janeiro,RJ,
+242,23-03-2025,,,103,Tênis Corrida,Calçados,350.0,5.0,0.01,ecommerce,Correia,SE,
+243,20-02-2025,,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,6.0,0.08,loja_fisica,Belo Horizonte,MG,
+244,12-08-2024,1.0,,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.29,loja_fisica,São Paulo,SP,
+245,08-07-2025,,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,1.0,,loja_fisica,Salvador,BA,
+246,02-07-2025,4.0,Ana Oliveira,109,Liquidificador X,Eletrodomésticos,300.0,1.0,0.21,loja_fisica,Salvador,BA,Rerum est voluptates architecto harum ullam temporibus similique atque unde est consequuntur accusamus.
+247,01-08-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.07,ecommerce,Nunes,RN,Reiciendis id mollitia maiores ad reiciendis sit dolore ipsa temporibus voluptatum voluptatem eum a nisi eos error voluptatem neque.
+248,03-05-2025,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,6.0,0.2,loja_fisica,Rio de Janeiro,RJ,
+249,26-04-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,5.0,0.02,ecommerce,Campos de Goiás,RR,
+250,31-08-2024,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,1.0,0.22,loja_fisica,Salvador,BA,
+251,02-12-2024,,,108,Tablet T10,Eletrônicos,1500.0,3.0,,ecommerce,Silveira de Martins,GO,
+252,09-02-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,8.0,0.11,ecommerce,Moraes da Praia,RJ,Dignissimos sunt voluptas consequatur doloribus voluptas itaque explicabo necessitatibus atque pariatur earum numquam architecto ipsum magnam quod nemo architecto aspernatur excepturi maxime atque ut.
+253,18-03-2025,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,7.0,0.14,loja_fisica,Belo Horizonte,MG,Accusamus cum doloremque itaque iure quos laboriosam voluptate veritatis corporis.
+254,07-10-2024,4.0,Ana Oliveira,109,Liquidificador X,Eletrodomésticos,300.0,6.0,0.13,loja_fisica,Salvador,BA,
+255,29-07-2024,,,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.1,ecommerce,Guerra,PA,
+256,02-10-2024,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,8.0,0.24,loja_fisica,Salvador,BA,
+257,19-04-2025,,,105,Smartphone A9,Eletrônicos,2800.0,9.0,0.13,ecommerce,Câmara de Goiás,SP,
+258,12-04-2025,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.21,loja_fisica,Rio de Janeiro,RJ,Velit mollitia ipsa vitae culpa consequuntur fugiat suscipit assumenda ipsa repudiandae reiciendis.
+259,19-06-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,10.0,0.02,ecommerce,Sousa das Flores,PI,
+260,31-12-2024,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,2.0,0.08,loja_fisica,Salvador,BA,Placeat beatae recusandae ullam harum suscipit illum.
+261,04-01-2025,,,103,Tênis Corrida,Calçados,350.0,1.0,0.12,ecommerce,Nunes,AP,
+262,28-09-2024,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,8.0,0.12,loja_fisica,Belo Horizonte,MG,
+263,12-09-2024,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,1.0,,loja_fisica,Rio de Janeiro,RJ,
+264,31-07-2024,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.22,loja_fisica,Belo Horizonte,MG,
+265,02-08-2024,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,6.0,0.28,loja_fisica,Curitiba,PR,Sed praesentium minima saepe voluptatem omnis perferendis quibusdam nam magni.
+266,30-06-2025,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,1.0,0.27,loja_fisica,Belo Horizonte,MG,
+267,01-04-2025,3.0,,103,Tênis Corrida,Calçados,350.0,1.0,0.09,loja_fisica,Curitiba,PR,
+268,06-01-2025,5.0,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.15,loja_fisica,Belo Horizonte,MG,
+269,12-12-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.07,ecommerce,Viana Alegre,GO,
+270,03-05-2025,1.0,João Silva,104,Camisa Polo,Vestuário,120.0,8.0,0.28,loja_fisica,São Paulo,SP,
+271,12-10-2024,,,104,Camisa Polo,Vestuário,120.0,1.0,0.08,ecommerce,Barbosa das Pedras,PA,
+272,27-12-2024,5.0,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,8.0,0.25,loja_fisica,Belo Horizonte,MG,
+273,20-03-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.0,ecommerce,Andrade Grande,MA,
+274,10-11-2024,4.0,Ana Oliveira,109,Liquidificador X,Eletrodomésticos,300.0,7.0,0.27,loja_fisica,Salvador,BA,Soluta expedita dolor incidunt voluptatibus magnam explicabo quod at mollitia sunt natus error molestias culpa culpa.
+275,05-05-2025,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,4.0,,loja_fisica,Salvador,BA,
+276,07-02-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.06,ecommerce,Monteiro,TO,
+277,03-10-2024,,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,5.0,0.29,loja_fisica,Rio de Janeiro,RJ,Enim quisquam nulla doloribus numquam facere ipsum ullam rerum animi quo doloremque.
+278,28-09-2024,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,8.0,0.23,loja_fisica,Curitiba,PR,
+279,12-06-2025,,,105,Smartphone A9,Eletrônicos,2800.0,5.0,0.04,ecommerce,Sampaio,RN,Hic in accusantium fugit sit laborum consequatur inventore dignissimos illum.
+280,24-03-2025,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,2.0,0.0,loja_fisica,Salvador,BA,
+281,20-07-2025,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,5.0,0.01,loja_fisica,Rio de Janeiro,RJ,Nam suscipit eaque non sunt ipsum dolor velit voluptatum.
+282,11-04-2025,,,103,Tênis Corrida,Calçados,350.0,10.0,,ecommerce,Abreu da Prata,TO,Temporibus expedita accusamus sed aliquid quasi quos nulla doloribus maiores.
+283,03-10-2024,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,10.0,0.29,loja_fisica,Curitiba,PR,Quidem repellendus id veniam esse dolorem porro dolorum placeat dolores saepe ducimus a earum.
+284,01-11-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,6.0,0.03,ecommerce,Brito das Pedras,AC,Deleniti culpa aliquid eaque occaecati animi provident repudiandae quasi quibusdam.
+285,10-11-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,5.0,0.03,ecommerce,,,
+286,08-07-2025,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,9.0,,loja_fisica,Salvador,BA,
+287,12-05-2025,1.0,João Silva,109,Liquidificador X,Eletrodomésticos,300.0,1.0,0.22,loja_fisica,São Paulo,SP,
+288,22-06-2025,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,8.0,0.19,loja_fisica,São Paulo,SP,Ea ipsa corrupti officia rem at amet libero quis tempora id at maxime voluptatem reiciendis nihil.
+289,03-08-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,9.0,,ecommerce,Martins,MS,
+290,27-06-2025,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.24,loja_fisica,São Paulo,SP,Quis cum aperiam porro tempore hic fuga asperiores facere illum nostrum voluptatibus.
+291,06-08-2024,5.0,,105,Smartphone A9,Eletrônicos,2800.0,9.0,0.16,loja_fisica,Belo Horizonte,MG,
+292,28-12-2024,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,1.0,0.28,loja_fisica,Curitiba,PR,
+293,19-12-2024,1.0,João Silva,104,Camisa Polo,Vestuário,120.0,8.0,0.3,loja_fisica,São Paulo,SP,
+294,01-07-2025,,,103,Tênis Corrida,Calçados,350.0,10.0,0.02,ecommerce,Siqueira das Flores,AP,Illum sequi mollitia enim sed animi non velit vero autem.
+295,10-11-2024,5.0,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,9.0,,loja_fisica,Belo Horizonte,MG,
+296,23-02-2025,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.2,loja_fisica,Belo Horizonte,MG,
+297,06-10-2024,4.0,Ana Oliveira,102,Cafeteira 20L,Eletrodomésticos,600.0,10.0,0.1,loja_fisica,Salvador,BA,Dolore quos similique delectus tempora nesciunt modi voluptas iusto ratione.
+298,05-03-2025,5.0,Fernando Costa,104,Camisa Polo,Vestuário,120.0,2.0,0.23,loja_fisica,Belo Horizonte,MG,
+299,28-06-2025,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.12,loja_fisica,Curitiba,PR,
+300,25-10-2024,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.18,loja_fisica,Rio de Janeiro,RJ,
+301,13-03-2025,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.09,loja_fisica,Curitiba,PR,
+302,18-02-2025,3.0,,101,Notebook X1,Eletrônicos,3500.0,2.0,0.12,loja_fisica,Curitiba,PR,
+303,13-03-2025,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.21,loja_fisica,São Paulo,SP,
+304,11-04-2025,1.0,João Silva,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.11,loja_fisica,São Paulo,SP,
+305,24-11-2024,4.0,Ana Oliveira,101,Notebook X1,Eletrônicos,3500.0,8.0,0.2,loja_fisica,Salvador,BA,
+306,17-11-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,0.06,ecommerce,da Paz,GO,
+307,30-03-2025,,Maria Souza,103,Tênis Corrida,Calçados,350.0,6.0,,loja_fisica,Rio de Janeiro,RJ,
+308,01-09-2024,2.0,Maria Souza,101,Notebook X1,Eletrônicos,3500.0,1.0,0.01,loja_fisica,Rio de Janeiro,RJ,
+309,07-04-2025,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.0,loja_fisica,Curitiba,PR,
+310,10-07-2025,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,,1.0,0.1,loja_fisica,Salvador,BA,
+311,21-05-2025,5.0,,104,Camisa Polo,Vestuário,120.0,9.0,0.14,loja_fisica,Belo Horizonte,MG,Sed aperiam unde molestiae minima debitis nisi dolorum quaerat blanditiis.
+312,15-09-2024,4.0,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.06,loja_fisica,Salvador,BA,
+313,10-02-2025,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,7.0,0.22,loja_fisica,Curitiba,PR,Illum earum odio praesentium quisquam nam tenetur adipisci ea ut modi sit.
+314,06-01-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,1.0,0.07,ecommerce,Nascimento do Campo,DF,
+315,12-06-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,10.0,0.24,loja_fisica,Curitiba,PR,
+316,20-11-2024,2.0,Maria Souza,101,Notebook X1,Eletrônicos,,1.0,0.07,loja_fisica,Rio de Janeiro,RJ,
+317,13-01-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,,ecommerce,Novaes da Praia,RO,
+318,05-09-2024,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,6.0,0.17,loja_fisica,São Paulo,SP,
+319,20-08-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,9.0,0.04,loja_fisica,Rio de Janeiro,RJ,
+320,22-11-2024,1.0,João Silva,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.06,loja_fisica,São Paulo,SP,
+321,16-09-2024,,,104,Camisa Polo,Vestuário,120.0,9.0,0.06,ecommerce,Marques,MG,
+322,26-05-2025,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.19,loja_fisica,Belo Horizonte,MG,
+323,13-09-2024,,Maria Souza,102,Cafeteira 20L,Eletrodomésticos,600.0,10.0,0.15,loja_fisica,Rio de Janeiro,RJ,Facere qui quam facere laboriosam saepe illo debitis dolorum illum vitae.
+324,25-08-2024,4.0,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,6.0,,loja_fisica,Salvador,BA,
+325,27-10-2024,5.0,Fernando Costa,104,Camisa Polo,Vestuário,120.0,8.0,0.01,loja_fisica,Belo Horizonte,MG,
+326,23-11-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,10.0,0.03,loja_fisica,Rio de Janeiro,RJ,
+327,19-09-2024,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,10.0,0.21,loja_fisica,São Paulo,SP,
+328,29-08-2024,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,4.0,0.16,loja_fisica,Belo Horizonte,MG,Amet fugit minima id exercitationem ducimus tempora magni consequatur.
+329,04-12-2024,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.17,loja_fisica,Curitiba,PR,
+330,18-09-2024,,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,6.0,0.24,loja_fisica,Curitiba,PR,
+331,28-07-2024,,,108,Tablet T10,Eletrônicos,1500.0,10.0,,ecommerce,Cavalcante dos Dourados,AM,A tenetur dolorum libero corporis vero eius quo quam laudantium harum a quo voluptatem veritatis voluptatibus dolores consectetur facilis error.
+332,26-12-2024,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,5.0,,loja_fisica,Salvador,BA,
+333,31-08-2024,,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.26,loja_fisica,Belo Horizonte,MG,Facere harum ex occaecati sapiente deleniti vero occaecati repellat dolore inventore fugit aspernatur ullam laudantium doloribus odio minima.
+334,02-05-2025,,,104,Camisa Polo,Vestuário,120.0,9.0,0.04,ecommerce,Machado,RR,
+335,10-08-2024,3.0,Carlos Pereira,101,Notebook X1,Eletrônicos,3500.0,4.0,0.05,loja_fisica,Curitiba,PR,Laudantium modi voluptatem aliquid dignissimos ab aut quasi quasi nisi voluptatibus saepe qui.
+336,02-10-2024,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.05,loja_fisica,São Paulo,SP,
+337,03-06-2025,5.0,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.01,loja_fisica,Belo Horizonte,MG,
+338,12-12-2024,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,0.28,loja_fisica,Curitiba,PR,Quisquam cum perferendis laborum sequi ratione voluptatibus eveniet aliquam eligendi accusantium et vel recusandae illum suscipit fugiat quo quidem.
+339,23-12-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.08,ecommerce,Teixeira de Lopes,RR,
+340,14-11-2024,,,103,Tênis Corrida,Calçados,350.0,1.0,0.06,ecommerce,Rocha,PE,
+341,31-08-2024,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,7.0,0.22,loja_fisica,Belo Horizonte,MG,
+342,20-11-2024,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,5.0,0.28,loja_fisica,Salvador,BA,
+343,25-10-2024,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.02,loja_fisica,Belo Horizonte,MG,Saepe quia quisquam dolore vitae assumenda natus veritatis ratione expedita error repellat aut illo.
+344,29-10-2024,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.28,loja_fisica,Curitiba,PR,Nam voluptates quia ducimus consectetur minima doloribus autem nulla est blanditiis vel.
+345,15-10-2024,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.15,loja_fisica,Curitiba,PR,
+346,18-07-2025,,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,7.0,0.21,loja_fisica,Rio de Janeiro,RJ,
+347,27-12-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,1.0,0.01,ecommerce,Pastor,SE,
+348,23-08-2024,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,1.0,0.06,loja_fisica,Belo Horizonte,MG,
+349,15-07-2025,2.0,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,3.0,0.01,loja_fisica,Rio de Janeiro,RJ,Eaque aut earum fugiat voluptate explicabo ab.
+350,13-11-2024,2.0,Maria Souza,102,Cafeteira 20L,Eletrodomésticos,600.0,2.0,0.17,loja_fisica,Rio de Janeiro,RJ,
+351,09-03-2025,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,9.0,0.18,loja_fisica,São Paulo,SP,Laudantium beatae numquam officia reprehenderit aut minima neque culpa voluptates animi quibusdam blanditiis eaque consequuntur fuga itaque molestias at modi voluptatem corrupti vel laboriosam sequi itaque.
+352,20-06-2025,2.0,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,9.0,0.17,loja_fisica,Rio de Janeiro,RJ,
+353,28-03-2025,,,108,Tablet T10,Eletrônicos,1500.0,8.0,0.03,ecommerce,Rodrigues,ES,
+354,22-04-2025,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,10.0,0.12,loja_fisica,Salvador,BA,
+355,02-09-2024,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,6.0,0.15,loja_fisica,Rio de Janeiro,RJ,Id adipisci quis provident accusantium enim rerum ad non asperiores dolores ab quam maxime nemo sint.
+356,14-01-2025,4.0,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,7.0,0.11,loja_fisica,Salvador,BA,Iure laboriosam eaque eaque ipsam officia magni nemo eveniet neque rem est nam quibusdam laboriosam dolore quibusdam natus.
+357,03-12-2024,,,101,Notebook X1,Eletrônicos,3500.0,1.0,0.03,ecommerce,Gonçalves,AP,
+358,16-08-2024,3.0,Carlos Pereira,104,Camisa Polo,Vestuário,120.0,2.0,0.03,loja_fisica,Curitiba,PR,
+359,11-06-2025,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,6.0,0.23,loja_fisica,São Paulo,SP,
+360,10-09-2024,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,6.0,,loja_fisica,Belo Horizonte,MG,Modi laborum corporis fuga ex modi commodi tempora voluptas harum eum earum perspiciatis.
+361,24-04-2025,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,7.0,0.02,loja_fisica,Salvador,BA,Vitae ipsam unde ipsam a occaecati ducimus.
+362,15-08-2024,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,8.0,0.18,loja_fisica,Curitiba,PR,Deserunt laborum quidem voluptas optio unde sunt cumque quae ratione doloremque eveniet temporibus aspernatur excepturi.
+363,28-03-2025,,,104,Camisa Polo,Vestuário,120.0,5.0,0.02,ecommerce,Fonseca,MG,
+364,29-11-2024,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.17,loja_fisica,Curitiba,PR,
+365,18-10-2024,,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,5.0,0.06,loja_fisica,Rio de Janeiro,RJ,
+366,15-12-2024,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,3.0,0.15,loja_fisica,Curitiba,PR,
+367,03-06-2025,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,2.0,0.18,loja_fisica,Belo Horizonte,MG,
+368,10-05-2025,3.0,Carlos Pereira,101,Notebook X1,Eletrônicos,3500.0,6.0,0.21,loja_fisica,Curitiba,PR,Corporis veritatis ducimus beatae autem illo voluptate animi accusantium.
+369,14-08-2024,2.0,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,8.0,0.07,loja_fisica,Rio de Janeiro,RJ,
+370,14-10-2024,,,103,Tênis Corrida,Calçados,350.0,4.0,0.02,ecommerce,Silva,PE,
+371,24-12-2024,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,,8.0,0.01,loja_fisica,Curitiba,PR,Ullam eius illum officia velit consequatur consequatur quod voluptatem architecto fugit distinctio est modi provident nobis.
+372,23-09-2024,,,108,Tablet T10,Eletrônicos,1500.0,6.0,0.1,ecommerce,da Rocha do Norte,RJ,Neque quos laudantium commodi corrupti minima repellat porro ducimus rerum accusamus nihil modi repellat harum voluptatum numquam tenetur vel.
+373,10-11-2024,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.08,loja_fisica,Curitiba,PR,
+374,12-11-2024,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.22,loja_fisica,Salvador,BA,
+375,03-08-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,7.0,0.12,ecommerce,Borges Alegre,RS,
+376,09-04-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,1.0,0.04,ecommerce,Rezende do Oeste,PI,
+377,24-03-2025,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,3.0,,loja_fisica,São Paulo,SP,
+378,12-05-2025,2.0,Maria Souza,101,Notebook X1,Eletrônicos,3500.0,6.0,0.12,loja_fisica,Rio de Janeiro,RJ,
+379,25-05-2025,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.07,loja_fisica,Curitiba,PR,
+380,17-05-2025,,,108,Tablet T10,Eletrônicos,1500.0,3.0,0.03,ecommerce,Gonçalves,SE,
+381,14-10-2024,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,8.0,0.17,loja_fisica,Belo Horizonte,MG,
+382,09-12-2024,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,10.0,,loja_fisica,Salvador,BA,Praesentium vero adipisci nihil sint consectetur voluptatibus.
+383,17-01-2025,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,3.0,0.07,loja_fisica,São Paulo,SP,Sit voluptate consequuntur et occaecati a.
+384,17-12-2024,1.0,,108,Tablet T10,Eletrônicos,1500.0,1.0,,loja_fisica,São Paulo,SP,
+385,26-11-2024,1.0,João Silva,104,Camisa Polo,Vestuário,120.0,3.0,0.25,loja_fisica,São Paulo,SP,
+386,05-05-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,4.0,0.03,ecommerce,Gomes,PR,
+387,16-06-2025,4.0,Ana Oliveira,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.15,loja_fisica,Salvador,BA,
+388,03-09-2024,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,5.0,0.26,loja_fisica,Rio de Janeiro,RJ,
+389,19-03-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,3.0,0.24,loja_fisica,Belo Horizonte,MG,
+390,08-05-2025,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,8.0,0.19,loja_fisica,São Paulo,SP,
+391,31-07-2024,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,10.0,0.12,loja_fisica,Belo Horizonte,MG,Explicabo debitis facere possimus et esse labore veniam inventore blanditiis alias beatae error neque unde saepe quis.
+392,30-05-2025,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.1,loja_fisica,Rio de Janeiro,RJ,
+393,21-05-2025,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,1.0,0.23,loja_fisica,Rio de Janeiro,RJ,Ut magni quia sed deserunt corporis temporibus veritatis voluptates rem distinctio fugiat magnam eligendi eos aut asperiores iure perferendis enim exercitationem.
+394,08-03-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.02,ecommerce,Barros do Campo,AP,
+395,15-10-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,3.0,,ecommerce,Duarte de Melo,MS,
+396,28-08-2024,,,108,Tablet T10,Eletrônicos,1500.0,7.0,,ecommerce,Fogaça,MT,
+397,01-06-2025,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.13,loja_fisica,Rio de Janeiro,RJ,
+398,02-06-2025,,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,6.0,0.09,loja_fisica,Curitiba,PR,
+399,25-11-2024,,,105,Smartphone A9,Eletrônicos,2800.0,8.0,0.06,ecommerce,Cardoso de Goiás,AL,
+400,15-06-2025,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,2.0,0.22,loja_fisica,São Paulo,SP,Saepe quas assumenda assumenda in commodi maxime nam in maiores neque sint repellat debitis tenetur itaque recusandae earum porro veritatis voluptates reiciendis eaque quos hic quis earum.
+401,06-11-2024,4.0,Ana Oliveira,101,Notebook X1,Eletrônicos,3500.0,10.0,0.16,loja_fisica,Salvador,BA,
+402,16-08-2024,3.0,Carlos Pereira,104,Camisa Polo,Vestuário,120.0,5.0,0.21,loja_fisica,Curitiba,PR,
+403,08-02-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,6.0,0.09,ecommerce,Vasconcelos dos Dourados,PB,
+404,27-09-2024,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,6.0,0.04,loja_fisica,Curitiba,PR,
+405,20-12-2024,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,10.0,0.23,loja_fisica,Curitiba,PR,
+406,21-06-2025,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,4.0,0.14,loja_fisica,Salvador,BA,
+407,29-07-2024,1.0,João Silva,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.02,loja_fisica,São Paulo,SP,
+408,17-12-2024,,,104,Camisa Polo,Vestuário,120.0,7.0,0.02,ecommerce,Freitas,SC,Dolores voluptate ipsum fugit quisquam quia at quasi voluptatum provident.
+409,24-05-2025,2.0,,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,,loja_fisica,Rio de Janeiro,RJ,Distinctio eius ullam laudantium corporis delectus temporibus maxime iusto minima a corrupti incidunt porro repellendus.
+410,23-11-2024,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,3.0,0.3,loja_fisica,Belo Horizonte,MG,
+411,06-06-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.11,ecommerce,Correia dos Dourados,TO,
+412,03-11-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,10.0,0.09,ecommerce,Camargo,RN,
+413,19-04-2025,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,4.0,,loja_fisica,Rio de Janeiro,RJ,
+414,09-01-2025,,,103,Tênis Corrida,Calçados,350.0,5.0,0.02,ecommerce,Campos,AC,
+415,01-05-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,10.0,0.16,loja_fisica,Curitiba,PR,
+416,10-11-2024,,,108,Tablet T10,Eletrônicos,1500.0,9.0,0.08,ecommerce,Barros de da Costa,RO,Maxime adipisci iure temporibus fuga molestias minus esse sint cumque praesentium quaerat repudiandae vitae atque unde.
+417,07-09-2024,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,5.0,0.18,loja_fisica,Belo Horizonte,MG,
+418,22-02-2025,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,5.0,0.17,loja_fisica,Salvador,BA,
+419,16-10-2024,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,,0.0,loja_fisica,Rio de Janeiro,RJ,
+420,01-12-2024,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,9.0,0.27,loja_fisica,Rio de Janeiro,RJ,
+421,27-10-2024,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.16,loja_fisica,São Paulo,SP,
+422,13-04-2025,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,,5.0,0.06,loja_fisica,Rio de Janeiro,RJ,
+423,18-06-2025,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,10.0,0.22,loja_fisica,São Paulo,SP,Ducimus repudiandae ea vitae atque corrupti quas suscipit nam aperiam.
+424,05-04-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,10.0,0.01,loja_fisica,Curitiba,PR,
+425,18-01-2025,,,104,Camisa Polo,Vestuário,120.0,8.0,0.02,ecommerce,Siqueira,RO,Rem debitis similique quas recusandae id ex cum placeat nemo id.
+426,01-05-2025,,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,9.0,0.04,loja_fisica,Rio de Janeiro,RJ,
+427,12-09-2024,2.0,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.0,loja_fisica,Rio de Janeiro,RJ,
+428,27-10-2024,4.0,Ana Oliveira,109,Liquidificador X,Eletrodomésticos,300.0,8.0,0.11,loja_fisica,Salvador,BA,Delectus minus temporibus sequi natus id veniam corrupti culpa totam adipisci.
+429,27-04-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,1.0,,ecommerce,Abreu Paulista,PB,Consequatur temporibus quibusdam laboriosam magni aut nisi sed maxime consequuntur recusandae soluta.
+430,02-07-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,5.0,0.22,loja_fisica,Curitiba,PR,Autem nisi explicabo blanditiis tempore dolorum nesciunt debitis debitis quo quidem doloremque porro cumque eveniet iste quaerat exercitationem totam error magni.
+431,29-09-2024,,,103,Tênis Corrida,Calçados,350.0,10.0,,ecommerce,Farias de Viana,SE,
+432,22-03-2025,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,3.0,0.29,loja_fisica,Belo Horizonte,MG,Dignissimos explicabo cupiditate placeat quam atque fugiat odio itaque harum veritatis reprehenderit omnis ipsa itaque omnis rem magnam iusto recusandae cum.
+433,30-03-2025,,,101,Notebook X1,Eletrônicos,3500.0,5.0,0.12,ecommerce,Ribeiro,PA,
+434,18-10-2024,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,,0.22,loja_fisica,Salvador,BA,
+435,24-03-2025,,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,10.0,0.01,loja_fisica,Salvador,BA,
+436,29-10-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,5.0,0.12,ecommerce,da Paz do Norte,BA,
+437,13-08-2024,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.02,loja_fisica,São Paulo,SP,Cupiditate corrupti sed laborum saepe laborum deleniti doloremque natus deleniti animi vel.
+438,06-08-2024,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,3.0,0.09,loja_fisica,Rio de Janeiro,RJ,
+439,11-08-2024,,,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.14,ecommerce,Pereira,AC,
+440,10-08-2024,,,108,Tablet T10,Eletrônicos,1500.0,6.0,0.12,ecommerce,Camargo da Praia,AM,
+441,19-01-2025,,,105,Smartphone A9,Eletrônicos,2800.0,5.0,0.13,ecommerce,,,Quis officiis blanditiis officiis fugit praesentium eaque ducimus dignissimos consequuntur eligendi perspiciatis.
+442,06-02-2025,1.0,João Silva,104,Camisa Polo,Vestuário,120.0,8.0,0.08,loja_fisica,São Paulo,SP,
+443,09-05-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,1.0,0.1,ecommerce,Lima,RN,
+444,04-01-2025,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,10.0,0.04,loja_fisica,Rio de Janeiro,RJ,Neque nulla tenetur quam earum quisquam dolorem dolorem beatae delectus laudantium excepturi accusantium nisi repellendus et ratione eos molestias.
+445,08-01-2025,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,5.0,0.16,loja_fisica,Salvador,BA,
+446,06-12-2024,1.0,João Silva,109,Liquidificador X,Eletrodomésticos,300.0,8.0,0.16,loja_fisica,São Paulo,SP,
+447,03-09-2024,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,7.0,0.11,loja_fisica,Belo Horizonte,MG,
+448,16-05-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,,0.04,ecommerce,da Conceição da Serra,CE,
+449,04-06-2025,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,,1.0,0.02,loja_fisica,Rio de Janeiro,RJ,
+450,28-04-2025,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,3.0,0.05,loja_fisica,Salvador,BA,Labore adipisci aperiam quod omnis commodi dolor recusandae porro asperiores atque praesentium alias nesciunt beatae alias fuga repudiandae.
+451,05-01-2025,3.0,Carlos Pereira,101,Notebook X1,Eletrônicos,,8.0,,loja_fisica,Curitiba,PR,
+452,04-08-2024,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,10.0,0.21,loja_fisica,São Paulo,SP,Dignissimos a eum odio repellendus mollitia voluptatem exercitationem mollitia dolorem accusantium optio possimus fugit suscipit minus.
+453,27-04-2025,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,1.0,0.29,loja_fisica,Belo Horizonte,MG,
+454,21-05-2025,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.19,loja_fisica,Curitiba,PR,Rerum qui facilis optio ea sunt quos corporis repudiandae incidunt deleniti reiciendis iste nisi.
+455,26-05-2025,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,10.0,0.11,loja_fisica,Belo Horizonte,MG,Optio culpa cum porro aliquid voluptatem laudantium facilis maxime nobis expedita.
+456,05-10-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,4.0,0.08,ecommerce,Carvalho da Praia,PI,
+457,19-11-2024,4.0,Ana Oliveira,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.04,loja_fisica,Salvador,BA,
+458,02-11-2024,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,3.0,0.17,loja_fisica,Belo Horizonte,MG,Quia accusamus laudantium autem explicabo quibusdam blanditiis et rerum fugiat similique debitis.
+459,03-03-2025,4.0,Ana Oliveira,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.08,loja_fisica,Salvador,BA,
+460,22-02-2025,2.0,,108,Tablet T10,Eletrônicos,1500.0,3.0,0.06,loja_fisica,Rio de Janeiro,RJ,
+461,23-10-2024,4.0,Ana Oliveira,110,Fone Bluetooth B1,Eletrônicos,200.0,10.0,0.11,loja_fisica,Salvador,BA,
+462,11-03-2025,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,6.0,0.08,loja_fisica,São Paulo,SP,Ratione accusantium odit esse facilis iusto dignissimos corporis id nihil porro itaque illum asperiores officiis quas quisquam repudiandae nostrum totam.
+463,09-02-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.09,loja_fisica,Belo Horizonte,MG,Doloribus dolorem quod doloremque hic sequi dolor qui maxime aut perspiciatis adipisci nobis laborum in blanditiis tempore incidunt fuga sed labore.
+464,08-03-2025,5.0,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.17,loja_fisica,Belo Horizonte,MG,Reiciendis asperiores occaecati odio cumque totam qui quaerat temporibus at a odio odio suscipit repellat suscipit.
+465,22-08-2024,2.0,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,9.0,0.01,loja_fisica,Rio de Janeiro,RJ,Voluptates vel consequuntur id impedit officiis porro molestias repudiandae ipsum maiores commodi ullam porro.
+466,10-07-2025,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,5.0,0.2,loja_fisica,São Paulo,SP,
+467,20-07-2025,,,101,Notebook X1,Eletrônicos,3500.0,1.0,0.13,ecommerce,Ribeiro de Silva,DF,
+468,07-11-2024,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.08,loja_fisica,Belo Horizonte,MG,A deserunt reiciendis doloremque fugiat magnam quam cumque doloremque nobis ullam excepturi ratione.
+469,28-09-2024,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,1.0,0.22,loja_fisica,São Paulo,SP,Quibusdam atque molestias sunt doloribus culpa modi pariatur illo id quia sit possimus omnis fugiat deleniti cumque.
+470,14-01-2025,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,1.0,0.03,loja_fisica,Belo Horizonte,MG,
+471,21-02-2025,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.03,loja_fisica,São Paulo,SP,
+472,14-11-2024,,,103,Tênis Corrida,Calçados,350.0,,0.08,ecommerce,Costa,AL,Accusantium eaque illum in non expedita magni odit laudantium praesentium maxime veniam eius accusamus reiciendis quas delectus libero sint nobis doloremque cumque.
+473,28-11-2024,2.0,Maria Souza,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,,loja_fisica,Rio de Janeiro,RJ,Eaque dicta molestiae ex explicabo saepe neque atque.
+474,27-08-2024,,,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.01,ecommerce,da Mota do Galho,RS,
+475,25-08-2024,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,10.0,0.07,loja_fisica,Curitiba,PR,
+476,09-10-2024,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.02,loja_fisica,Rio de Janeiro,RJ,Cumque delectus tempora nihil alias ipsa aut asperiores ut fuga aut nulla.
+477,15-01-2025,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,1.0,0.04,loja_fisica,São Paulo,SP,
+478,02-12-2024,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,7.0,0.06,loja_fisica,São Paulo,SP,
+479,14-05-2025,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.02,loja_fisica,São Paulo,SP,
+480,02-08-2024,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.15,loja_fisica,São Paulo,SP,Animi ipsa quod aperiam molestias nostrum vitae voluptatibus necessitatibus odio nulla.
+481,13-04-2025,3.0,Carlos Pereira,104,Camisa Polo,Vestuário,120.0,7.0,0.09,loja_fisica,Curitiba,PR,
+482,01-05-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.09,loja_fisica,Curitiba,PR,
+483,08-03-2025,2.0,Maria Souza,102,Cafeteira 20L,Eletrodomésticos,600.0,2.0,0.04,loja_fisica,Rio de Janeiro,RJ,
+484,17-07-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.09,ecommerce,Sousa Grande,MA,Quam non ex excepturi neque nostrum odio.
+485,06-06-2025,,,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.01,ecommerce,Martins,DF,
+486,17-01-2025,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.06,loja_fisica,Belo Horizonte,MG,Quasi culpa aut vero veniam mollitia necessitatibus dolore consequatur maiores laborum nulla.
+487,04-11-2024,,,104,Camisa Polo,Vestuário,120.0,3.0,0.07,ecommerce,Machado,PR,
+488,01-02-2025,4.0,Ana Oliveira,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.15,loja_fisica,Salvador,BA,
+489,06-04-2025,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.12,loja_fisica,Belo Horizonte,MG,
+490,16-07-2025,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.19,loja_fisica,Belo Horizonte,MG,
+491,16-07-2025,2.0,Maria Souza,101,Notebook X1,Eletrônicos,3500.0,5.0,0.19,loja_fisica,Rio de Janeiro,RJ,Voluptas aut deserunt quasi quasi accusamus hic expedita blanditiis tempora consequatur laborum modi delectus magni itaque est debitis nostrum sunt hic eius.
+492,21-05-2025,2.0,,104,Camisa Polo,Vestuário,,4.0,0.21,loja_fisica,Rio de Janeiro,RJ,In repellat alias asperiores deserunt totam ducimus officiis illum optio minima vitae.
+493,17-05-2025,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,5.0,0.09,loja_fisica,São Paulo,SP,
+494,28-12-2024,,,104,Camisa Polo,Vestuário,120.0,3.0,0.05,ecommerce,Nascimento da Mata,TO,
+495,08-08-2024,5.0,Fernando Costa,104,Camisa Polo,Vestuário,120.0,6.0,,loja_fisica,Belo Horizonte,MG,Suscipit inventore totam tempora ratione quibusdam a iusto sunt minima.
+496,08-10-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,3.0,,ecommerce,Vieira,MG,
+497,19-02-2025,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.21,loja_fisica,Curitiba,PR,
+498,06-11-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.01,ecommerce,Souza da Prata,PB,
+499,12-11-2024,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,5.0,0.29,loja_fisica,Curitiba,PR,Error totam quaerat voluptatum tempora aperiam voluptatibus inventore quasi rem rem repudiandae nemo culpa ratione sint quidem incidunt.
+500,15-09-2024,3.0,Carlos Pereira,103,Tênis Corrida,Calçados,350.0,2.0,0.11,loja_fisica,Curitiba,PR,
+501,31-12-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,6.0,0.05,ecommerce,Santos,BA,
+502,11-10-2024,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,4.0,,loja_fisica,São Paulo,SP,Ut earum illo odit non itaque dolorum odit repellat.
+503,11-11-2024,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,5.0,0.13,loja_fisica,Curitiba,PR,
+504,26-12-2024,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,,1.0,0.29,loja_fisica,São Paulo,SP,
+505,28-05-2025,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,4.0,0.23,loja_fisica,São Paulo,SP,
+506,26-06-2025,4.0,Ana Oliveira,109,Liquidificador X,Eletrodomésticos,300.0,6.0,0.29,loja_fisica,Salvador,BA,
+507,05-11-2024,,,105,Smartphone A9,Eletrônicos,2800.0,3.0,0.05,ecommerce,das Neves,PR,
+508,01-12-2024,,,104,Camisa Polo,Vestuário,120.0,2.0,0.14,ecommerce,Casa Grande da Mata,ES,
+509,21-07-2025,,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,2.0,0.11,loja_fisica,São Paulo,SP,
+510,26-05-2025,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.06,loja_fisica,Curitiba,PR,
+511,27-07-2025,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.22,loja_fisica,São Paulo,SP,
+512,02-06-2025,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.19,loja_fisica,Belo Horizonte,MG,Qui porro consectetur dolores blanditiis recusandae deleniti minima quisquam nam provident.
+513,07-09-2024,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,5.0,0.15,loja_fisica,Curitiba,PR,
+514,14-07-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,7.0,0.23,loja_fisica,Belo Horizonte,MG,Quos sed incidunt velit quae optio itaque quia.
+515,28-08-2024,5.0,Fernando Costa,109,Liquidificador X,Eletrodomésticos,300.0,1.0,0.29,loja_fisica,Belo Horizonte,MG,
+516,07-03-2025,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.0,loja_fisica,São Paulo,SP,Explicabo cumque aliquid aspernatur blanditiis aspernatur maiores optio illum recusandae libero nulla praesentium accusantium corporis nulla commodi deserunt.
+517,02-02-2025,1.0,,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.26,loja_fisica,São Paulo,SP,
+518,28-04-2025,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,,0.26,loja_fisica,Rio de Janeiro,RJ,
+519,09-04-2025,,,104,Camisa Polo,Vestuário,120.0,3.0,0.1,ecommerce,Porto de Pereira,DF,Sit aliquam dignissimos doloribus adipisci assumenda animi nesciunt corrupti.
+520,10-02-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,6.0,0.1,ecommerce,Sousa do Galho,AP,
+521,08-02-2025,,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,1.0,0.19,loja_fisica,Curitiba,PR,
+522,17-02-2025,,,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.12,ecommerce,Costa do Galho,AC,
+523,14-04-2025,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.04,loja_fisica,Rio de Janeiro,RJ,Nam voluptate architecto tempore quam et nam consequuntur nam at corrupti eius incidunt impedit.
+524,10-10-2024,2.0,Maria Souza,101,Notebook X1,Eletrônicos,3500.0,10.0,0.18,loja_fisica,Rio de Janeiro,RJ,
+525,29-10-2024,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,1.0,0.26,loja_fisica,Belo Horizonte,MG,
+526,22-02-2025,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,9.0,0.11,loja_fisica,Rio de Janeiro,RJ,
+527,31-10-2024,2.0,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,,loja_fisica,Rio de Janeiro,RJ,
+528,22-11-2024,4.0,Ana Oliveira,109,Liquidificador X,Eletrodomésticos,300.0,3.0,,loja_fisica,Salvador,BA,
+529,10-02-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,0.06,ecommerce,Nogueira das Pedras,AC,
+530,17-01-2025,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.15,loja_fisica,Belo Horizonte,MG,
+531,05-11-2024,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,7.0,0.05,loja_fisica,Rio de Janeiro,RJ,
+532,28-08-2024,1.0,João Silva,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.08,loja_fisica,São Paulo,SP,Enim laudantium quod quidem omnis soluta ipsum nisi recusandae nemo numquam ad.
+533,15-05-2025,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.15,loja_fisica,Rio de Janeiro,RJ,Quidem quasi laudantium non veniam aperiam repellendus voluptatibus veritatis minima repellendus sapiente sequi facilis accusamus quidem fugit velit repellendus praesentium porro dicta cum ducimus.
+534,09-05-2025,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,7.0,0.18,loja_fisica,Rio de Janeiro,RJ,
+535,01-03-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.2,loja_fisica,Belo Horizonte,MG,Accusamus quis dignissimos veniam quidem explicabo numquam nam maxime corrupti recusandae provident consequatur qui velit impedit eum sequi consequatur minima amet.
+536,23-11-2024,3.0,Carlos Pereira,101,Notebook X1,Eletrônicos,3500.0,10.0,0.25,loja_fisica,Curitiba,PR,Porro sed enim error distinctio error nam aspernatur.
+537,23-03-2025,2.0,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,5.0,0.06,loja_fisica,Rio de Janeiro,RJ,Quo deleniti maiores exercitationem accusantium nihil magnam iure odit quo doloribus quidem repudiandae ad minus dignissimos veniam nulla nemo velit error et.
+538,14-08-2024,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.06,loja_fisica,Rio de Janeiro,RJ,
+539,29-01-2025,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,9.0,0.19,loja_fisica,Belo Horizonte,MG,
+540,26-06-2025,,,101,Notebook X1,Eletrônicos,3500.0,3.0,0.13,ecommerce,Fogaça,AM,Exercitationem reiciendis temporibus similique impedit commodi voluptas aliquid commodi.
+541,11-09-2024,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,7.0,,loja_fisica,Rio de Janeiro,RJ,
+542,01-06-2025,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,8.0,0.11,loja_fisica,Salvador,BA,
+543,02-06-2025,,,105,Smartphone A9,Eletrônicos,2800.0,9.0,,ecommerce,Silveira dos Dourados,RO,
+544,26-10-2024,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,1.0,0.1,loja_fisica,São Paulo,SP,Veniam facilis facere animi neque beatae laboriosam commodi molestiae ut alias cumque.
+545,21-08-2024,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.06,loja_fisica,Belo Horizonte,MG,Ex recusandae laudantium officia eligendi praesentium minima quod cum nemo corporis nostrum maiores delectus officia.
+546,03-03-2025,2.0,Maria Souza,101,Notebook X1,Eletrônicos,3500.0,10.0,0.09,loja_fisica,Rio de Janeiro,RJ,Odio ab illum corporis doloremque soluta tempora assumenda vel exercitationem.
+547,19-09-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.11,ecommerce,Sá,RO,
+548,16-09-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,7.0,0.02,ecommerce,Castro da Serra,PB,
+549,24-11-2024,,,101,Notebook X1,Eletrônicos,3500.0,9.0,,ecommerce,Pinto,MA,Atque ducimus fugiat doloremque odit dolores magni unde corrupti quis quibusdam culpa quisquam maiores.
+550,21-07-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,7.0,0.02,loja_fisica,Belo Horizonte,MG,
+551,12-02-2025,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,9.0,0.13,loja_fisica,Rio de Janeiro,RJ,
+552,29-01-2025,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,8.0,0.24,loja_fisica,Belo Horizonte,MG,
+553,25-09-2024,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.26,loja_fisica,Belo Horizonte,MG,Quibusdam exercitationem natus unde facere consequatur sapiente quasi natus exercitationem vel vero fugit.
+554,19-09-2024,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,1.0,0.24,loja_fisica,Belo Horizonte,MG,At earum explicabo quisquam voluptas repellendus nobis nihil voluptate.
+555,18-01-2025,,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,6.0,0.15,loja_fisica,Belo Horizonte,MG,
+556,02-08-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,10.0,0.11,ecommerce,da Mata,PI,Unde ea magni praesentium tenetur impedit aliquid ipsum aperiam asperiores cupiditate nostrum temporibus asperiores assumenda minus similique voluptas nesciunt dicta odit.
+557,29-03-2025,,,108,Tablet T10,Eletrônicos,1500.0,9.0,0.11,ecommerce,Abreu,RO,Alias eum id minima consequuntur qui necessitatibus harum.
+558,30-07-2024,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,9.0,0.27,loja_fisica,São Paulo,SP,
+559,08-09-2024,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,7.0,0.17,loja_fisica,Salvador,BA,Quisquam quae modi non possimus dolor nam repellat minima suscipit autem dolores.
+560,28-03-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.12,ecommerce,Pastor da Serra,DF,
+561,17-08-2024,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.1,loja_fisica,São Paulo,SP,
+562,02-06-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.0,ecommerce,Moraes das Pedras,PR,
+563,20-01-2025,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.04,loja_fisica,Curitiba,PR,Quo ut sunt accusantium suscipit iusto dolore vel commodi iste nulla dolor accusantium quos iusto.
+564,24-01-2025,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,6.0,0.25,loja_fisica,Rio de Janeiro,RJ,
+565,14-02-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,4.0,0.03,ecommerce,Sousa,BA,Blanditiis pariatur quisquam tempore eum sapiente tenetur at id dolore ad facere voluptatibus ea aliquid.
+566,06-07-2025,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,5.0,0.24,loja_fisica,Salvador,BA,Assumenda asperiores omnis facere animi eius doloribus incidunt aliquam.
+567,26-01-2025,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,7.0,0.05,loja_fisica,São Paulo,SP,
+568,10-07-2025,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,8.0,0.19,loja_fisica,Salvador,BA,
+569,09-10-2024,4.0,Ana Oliveira,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,0.12,loja_fisica,Salvador,BA,Voluptatibus voluptatibus modi nesciunt inventore excepturi reiciendis totam molestiae saepe saepe enim ipsam omnis cumque dolorum vitae beatae.
+570,06-05-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,4.0,0.06,loja_fisica,Curitiba,PR,
+571,22-05-2025,,,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.05,ecommerce,Sousa das Pedras,PE,
+572,17-07-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.05,ecommerce,Porto do Oeste,SC,
+573,20-11-2024,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,9.0,0.17,loja_fisica,Curitiba,PR,Quos totam voluptate minima asperiores fugiat quos consectetur occaecati.
+574,05-09-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,5.0,0.06,ecommerce,,,Ut nemo at deleniti quae voluptatem atque doloremque animi quam repellendus quibusdam iusto.
+575,08-01-2025,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,0.0,loja_fisica,São Paulo,SP,Blanditiis libero reiciendis consectetur vitae iusto mollitia perspiciatis sint ab quo sit eveniet reprehenderit omnis temporibus voluptatibus.
+576,28-06-2025,3.0,Carlos Pereira,104,Camisa Polo,Vestuário,120.0,3.0,0.23,loja_fisica,Curitiba,PR,Architecto dolorem magnam earum nisi similique molestiae optio distinctio assumenda fugit iure earum.
+577,26-07-2025,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,6.0,0.05,loja_fisica,Rio de Janeiro,RJ,Earum distinctio temporibus voluptate iusto reprehenderit quis debitis veritatis suscipit quasi nihil voluptate iure excepturi blanditiis nobis hic molestias.
+578,07-02-2025,,,105,Smartphone A9,Eletrônicos,2800.0,5.0,0.1,ecommerce,da Cruz da Prata,PI,
+579,30-11-2024,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,6.0,0.3,loja_fisica,São Paulo,SP,
+580,25-01-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.06,ecommerce,Macedo da Serra,GO,
+581,06-05-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,1.0,,ecommerce,Aparecida da Serra,RO,Soluta quae eos recusandae tempora cupiditate sed atque cum harum illo saepe eligendi quos eaque culpa.
+582,12-05-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.21,loja_fisica,Curitiba,PR,
+583,13-05-2025,,,103,Tênis Corrida,Calçados,350.0,2.0,0.11,ecommerce,Costa de Silva,PE,
+584,28-06-2025,5.0,Fernando Costa,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.23,loja_fisica,Belo Horizonte,MG,Assumenda ea quae perspiciatis officiis optio illum eligendi quis maxime atque molestiae laborum ab occaecati.
+585,16-10-2024,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,8.0,0.11,loja_fisica,São Paulo,SP,
+586,09-07-2025,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,8.0,0.23,loja_fisica,Salvador,BA,Et sit error sit reprehenderit officiis sunt repellendus mollitia sunt deserunt sint deleniti expedita voluptatum sit ratione sequi perspiciatis similique.
+587,26-01-2025,2.0,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,4.0,,loja_fisica,Rio de Janeiro,RJ,
+588,19-01-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,5.0,,ecommerce,Azevedo de Moreira,MG,
+589,30-08-2024,,,110,Fone Bluetooth B1,Eletrônicos,,9.0,0.15,ecommerce,Câmara de da Cunha,MG,
+590,10-03-2025,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,3.0,0.26,loja_fisica,São Paulo,SP,
+591,05-05-2025,2.0,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,1.0,0.01,loja_fisica,Rio de Janeiro,RJ,Cumque voluptas ducimus voluptas occaecati sunt consequatur voluptatem odio commodi quas laborum dignissimos fuga.
+592,04-12-2024,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.15,loja_fisica,Belo Horizonte,MG,Inventore a corrupti error quia dolor nihil sapiente velit doloribus laborum reprehenderit quod.
+593,15-04-2025,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,7.0,0.22,loja_fisica,São Paulo,SP,Nesciunt ea incidunt quaerat maxime placeat facilis eos totam veniam corrupti nisi sint quam dolorem autem quo.
+594,03-01-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,6.0,0.05,ecommerce,Câmara,RJ,
+595,30-05-2025,,,103,Tênis Corrida,Calçados,350.0,8.0,0.1,ecommerce,da Luz da Mata,PB,
+596,18-12-2024,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.16,loja_fisica,Belo Horizonte,MG,Consectetur tempore inventore vel eaque illo reprehenderit quam aliquam voluptatem maxime quibusdam facere pariatur numquam ratione voluptas quasi unde tenetur aspernatur suscipit deserunt.
+597,14-01-2025,5.0,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,9.0,0.26,loja_fisica,Belo Horizonte,MG,Vitae quas exercitationem quae cupiditate sunt dolorum fuga laudantium neque dolor quo nostrum deleniti consectetur consectetur rem nulla maiores.
+598,19-03-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.03,ecommerce,Novais,GO,Ad rem adipisci ab inventore at a quam nam iure et praesentium expedita deserunt natus exercitationem impedit.
+599,23-07-2025,,,103,Tênis Corrida,Calçados,350.0,3.0,0.12,ecommerce,Costa,AM,Magni numquam minima velit necessitatibus dolorem nisi facere eius natus dignissimos illo culpa voluptatibus repudiandae laudantium officia.
+600,27-12-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,2.0,0.06,ecommerce,Rezende,SE,
+601,16-09-2024,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,5.0,0.04,loja_fisica,Belo Horizonte,MG,
+602,04-05-2025,3.0,Carlos Pereira,101,Notebook X1,Eletrônicos,3500.0,3.0,0.26,loja_fisica,Curitiba,PR,
+603,11-02-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.04,ecommerce,Siqueira,MT,
+604,03-04-2025,5.0,Fernando Costa,104,Camisa Polo,Vestuário,120.0,10.0,0.21,loja_fisica,Belo Horizonte,MG,
+605,01-12-2024,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.01,loja_fisica,Curitiba,PR,
+606,26-01-2025,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,9.0,,loja_fisica,Curitiba,PR,Asperiores molestiae deleniti delectus totam ex sed aut nisi nam.
+607,25-09-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,4.0,0.12,ecommerce,da Mota,CE,
+608,28-09-2024,2.0,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,6.0,,loja_fisica,Rio de Janeiro,RJ,Cum quisquam cupiditate voluptate dolorum eveniet animi fugiat qui magni adipisci expedita saepe cupiditate repudiandae dolor.
+609,07-04-2025,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,1.0,0.02,loja_fisica,São Paulo,SP,Non perferendis praesentium perspiciatis exercitationem perferendis impedit eveniet suscipit officiis iusto tempore recusandae maxime atque deleniti ut enim assumenda.
+610,13-02-2025,,,108,Tablet T10,Eletrônicos,1500.0,6.0,0.07,ecommerce,Duarte,SE,
+611,30-07-2024,1.0,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,0.15,loja_fisica,São Paulo,SP,
+612,19-11-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,5.0,0.14,ecommerce,Aparecida do Sul,MG,
+613,29-08-2024,,,104,Camisa Polo,Vestuário,120.0,2.0,0.02,ecommerce,da Conceição de Goiás,RS,
+614,14-03-2025,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.11,loja_fisica,Belo Horizonte,MG,
+615,15-09-2024,1.0,João Silva,104,Camisa Polo,Vestuário,120.0,5.0,0.3,loja_fisica,São Paulo,SP,
+616,31-12-2024,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,5.0,0.0,loja_fisica,Salvador,BA,Vitae eaque deserunt molestiae quaerat adipisci nisi adipisci magnam maiores placeat nisi amet voluptas voluptatibus ea laudantium ipsum nostrum libero debitis et.
+617,16-12-2024,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,1.0,0.1,loja_fisica,Curitiba,PR,Cum aspernatur velit accusamus quidem nostrum reprehenderit quod tenetur possimus architecto doloremque occaecati voluptatem itaque impedit aspernatur maiores excepturi labore cum reiciendis nesciunt in eaque dolore fugiat eveniet.
+618,25-12-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,0.04,ecommerce,Rocha de Vargas,RR,Itaque sequi sapiente illo expedita molestiae exercitationem earum quaerat unde suscipit in nostrum quo.
+619,01-03-2025,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,8.0,0.29,loja_fisica,Salvador,BA,
+620,07-09-2024,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,10.0,0.02,loja_fisica,Belo Horizonte,MG,
+621,17-03-2025,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,1.0,0.28,loja_fisica,Salvador,BA,
+622,10-05-2025,3.0,Carlos Pereira,101,Notebook X1,Eletrônicos,3500.0,8.0,0.04,loja_fisica,Curitiba,PR,Iusto pariatur fuga tenetur quasi sit hic ducimus perferendis aliquid sed quos deserunt atque at quo itaque saepe placeat quasi magni odit omnis architecto qui.
+623,17-06-2025,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,10.0,0.13,loja_fisica,Belo Horizonte,MG,
+624,10-12-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.15,ecommerce,Leão de Sousa,AP,
+625,01-03-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.18,loja_fisica,Curitiba,PR,Facilis quod dolores molestias suscipit laborum consequuntur aliquid sed amet dignissimos possimus iure minus maxime temporibus ipsum a quos.
+626,13-06-2025,,,103,Tênis Corrida,Calçados,350.0,5.0,0.02,ecommerce,Azevedo de Goiás,SP,
+627,18-03-2025,,,104,Camisa Polo,Vestuário,120.0,5.0,0.11,ecommerce,Pimenta,MT,Dolores dicta labore soluta provident doloribus modi quisquam accusantium alias commodi quam.
+628,06-04-2025,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,,1.0,0.11,loja_fisica,Rio de Janeiro,RJ,
+629,25-04-2025,5.0,,105,Smartphone A9,Eletrônicos,2800.0,2.0,,loja_fisica,Belo Horizonte,MG,
+630,06-12-2024,4.0,Ana Oliveira,101,Notebook X1,Eletrônicos,3500.0,10.0,0.01,loja_fisica,Salvador,BA,
+631,02-04-2025,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,8.0,0.1,loja_fisica,Belo Horizonte,MG,
+632,29-09-2024,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,10.0,0.14,loja_fisica,São Paulo,SP,
+633,03-09-2024,,,103,Tênis Corrida,Calçados,350.0,2.0,0.08,ecommerce,Dias,SC,Magnam maiores mollitia minima tenetur tempore eos aliquid non illo dolorum voluptatibus sunt quis esse reiciendis unde provident corrupti.
+634,25-04-2025,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,4.0,0.08,loja_fisica,Curitiba,PR,Mollitia rerum voluptatum dolor hic similique sit consequatur eius beatae quasi delectus amet.
+635,22-12-2024,,,108,Tablet T10,Eletrônicos,1500.0,9.0,0.1,ecommerce,,,
+636,01-07-2025,5.0,Fernando Costa,109,Liquidificador X,Eletrodomésticos,300.0,8.0,0.23,loja_fisica,Belo Horizonte,MG,Debitis sunt nemo deleniti ad laudantium omnis corporis minus nulla natus odit sapiente.
+637,20-09-2024,,,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.07,ecommerce,,,
+638,24-03-2025,4.0,Ana Oliveira,102,Cafeteira 20L,Eletrodomésticos,600.0,8.0,,loja_fisica,Salvador,BA,Rem eveniet vitae architecto corporis ex quasi.
+639,27-05-2025,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.04,loja_fisica,Curitiba,PR,
+640,18-10-2024,5.0,,101,Notebook X1,Eletrônicos,3500.0,4.0,0.03,loja_fisica,Belo Horizonte,MG,
+641,08-11-2024,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,4.0,,loja_fisica,Curitiba,PR,
+642,14-05-2025,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,6.0,0.14,loja_fisica,Belo Horizonte,MG,Dolor ad autem pariatur hic sint quia quo autem eligendi.
+643,18-03-2025,,,104,Camisa Polo,Vestuário,120.0,6.0,,ecommerce,Pastor Paulista,PA,
+644,28-09-2024,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,5.0,0.07,loja_fisica,Salvador,BA,Officia facere dolor fugit at cum voluptas similique libero saepe facilis ipsum modi iusto illo harum natus quas consequatur.
+645,08-02-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,2.0,0.01,ecommerce,Nogueira de Minas,TO,Accusantium ullam temporibus expedita tempore voluptatem expedita praesentium minus perferendis sit.
+646,11-12-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.01,ecommerce,Aragão do Amparo,RN,Ex accusantium officia sed facere ullam sunt expedita facilis nam eaque quibusdam temporibus quibusdam commodi incidunt aliquid illum quis vel commodi.
+647,28-07-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.06,ecommerce,Viana,MT,Officiis vitae reiciendis magni nostrum totam tempora nam tenetur alias quidem eos provident saepe.
+648,21-06-2025,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,1.0,,loja_fisica,Rio de Janeiro,RJ,
+649,09-03-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.07,ecommerce,da Conceição Alegre,BA,
+650,25-06-2025,,,104,Camisa Polo,Vestuário,120.0,3.0,0.01,ecommerce,Sousa,RO,Debitis cum facere corrupti optio voluptate autem occaecati alias.
+651,28-09-2024,5.0,Fernando Costa,104,Camisa Polo,Vestuário,,7.0,,loja_fisica,Belo Horizonte,MG,
+652,13-07-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,9.0,0.03,ecommerce,Costa,RR,
+653,02-03-2025,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.16,loja_fisica,Rio de Janeiro,RJ,Expedita eum nesciunt omnis excepturi dicta ab ea nihil natus nobis vero reiciendis cum.
+654,09-11-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,2.0,0.11,ecommerce,,,
+655,17-02-2025,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,2.0,0.09,loja_fisica,Salvador,BA,Sed non dolorem fuga maiores ad fugit aspernatur asperiores sunt minus optio.
+656,21-04-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.15,ecommerce,Rodrigues das Pedras,MG,
+657,22-10-2024,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,10.0,0.22,loja_fisica,Curitiba,PR,
+658,01-02-2025,1.0,João Silva,103,Tênis Corrida,Calçados,350.0,4.0,0.25,loja_fisica,São Paulo,SP,
+659,24-08-2024,2.0,,102,Cafeteira 20L,Eletrodomésticos,600.0,4.0,0.05,loja_fisica,Rio de Janeiro,RJ,
+660,29-09-2024,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,2.0,0.09,loja_fisica,Belo Horizonte,MG,
+661,09-01-2025,2.0,,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.02,loja_fisica,Rio de Janeiro,RJ,
+662,13-03-2025,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.28,loja_fisica,Curitiba,PR,
+663,07-09-2024,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.16,loja_fisica,Belo Horizonte,MG,
+664,28-04-2025,,,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.12,ecommerce,Fonseca de Goiás,SE,
+665,30-03-2025,4.0,Ana Oliveira,101,Notebook X1,Eletrônicos,3500.0,8.0,,loja_fisica,Salvador,BA,
+666,15-11-2024,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,6.0,0.07,loja_fisica,Salvador,BA,
+667,13-09-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,5.0,0.13,ecommerce,Gomes,AM,
+668,09-10-2024,,,104,Camisa Polo,Vestuário,120.0,3.0,0.13,ecommerce,Novais,CE,
+669,23-10-2024,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,10.0,0.2,loja_fisica,Salvador,BA,Repudiandae quam ut sed quibusdam aspernatur illum autem quaerat fugit vero possimus non.
+670,08-04-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,5.0,0.2,loja_fisica,Curitiba,PR,Qui illum vero assumenda accusantium quis aperiam praesentium nesciunt omnis tempore.
+671,23-07-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,4.0,0.13,ecommerce,Ferreira da Mata,CE,
+672,08-03-2025,,,104,Camisa Polo,Vestuário,120.0,3.0,0.03,ecommerce,Moreira do Oeste,MG,
+673,10-02-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,1.0,0.0,ecommerce,Vasconcelos,BA,
+674,28-04-2025,5.0,Fernando Costa,109,Liquidificador X,Eletrodomésticos,300.0,7.0,0.21,loja_fisica,Belo Horizonte,MG,Molestias architecto saepe sit laboriosam officiis aut odio non adipisci laboriosam maxime quae natus eligendi aspernatur tempora dolorum corrupti odio quasi recusandae eos nesciunt.
+675,14-07-2025,4.0,Ana Oliveira,110,Fone Bluetooth B1,Eletrônicos,200.0,10.0,0.06,loja_fisica,Salvador,BA,
+676,15-02-2025,5.0,Fernando Costa,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.17,loja_fisica,Belo Horizonte,MG,
+677,11-10-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.06,ecommerce,Leão de Machado,RR,Aliquam labore impedit sint in aliquam explicabo temporibus ullam repellendus id placeat laboriosam.
+678,16-11-2024,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,,loja_fisica,Curitiba,PR,
+679,06-01-2025,,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,8.0,0.23,loja_fisica,Salvador,BA,
+680,21-12-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,9.0,0.17,loja_fisica,Rio de Janeiro,RJ,Reiciendis quae laborum officiis minus minima repudiandae doloribus hic inventore possimus laborum molestias totam hic neque inventore.
+681,16-07-2025,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,0.15,loja_fisica,Curitiba,PR,Quis nesciunt quas sapiente nobis unde est illo et corrupti maiores officia error repellat id numquam itaque unde adipisci praesentium nihil temporibus.
+682,18-01-2025,1.0,,101,Notebook X1,Eletrônicos,3500.0,2.0,0.27,loja_fisica,São Paulo,SP,Sint magni aspernatur magnam assumenda iste modi quia tempora delectus perferendis sequi amet error.
+683,01-10-2024,3.0,Carlos Pereira,103,Tênis Corrida,Calçados,350.0,9.0,0.19,loja_fisica,Curitiba,PR,
+684,30-11-2024,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.26,loja_fisica,São Paulo,SP,Atque blanditiis culpa eum voluptatibus iusto nulla laudantium porro alias nihil nulla magnam aliquam delectus totam.
+685,01-01-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,4.0,,ecommerce,Azevedo,RR,
+686,28-08-2024,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,,loja_fisica,Curitiba,PR,Beatae odit numquam accusamus eius id dolorem cum.
+687,13-05-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.03,ecommerce,Alves,MG,
+688,24-07-2025,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,0.22,loja_fisica,Curitiba,PR,
+689,23-08-2024,,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,1.0,0.04,loja_fisica,Curitiba,PR,
+690,29-09-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.1,ecommerce,Costa de Vasconcelos,RR,
+691,10-04-2025,,,103,Tênis Corrida,Calçados,350.0,9.0,0.0,ecommerce,,,Corporis libero odit suscipit unde laborum voluptatibus necessitatibus itaque sapiente magni libero tempora.
+692,29-11-2024,4.0,Ana Oliveira,102,Cafeteira 20L,Eletrodomésticos,600.0,6.0,0.07,loja_fisica,Salvador,BA,Doloremque rerum soluta sit tenetur praesentium nobis ab sapiente vero quas hic dolorem recusandae.
+693,05-10-2024,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,3.0,0.15,loja_fisica,Salvador,BA,
+694,05-04-2025,4.0,Ana Oliveira,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.0,loja_fisica,Salvador,BA,
+695,07-10-2024,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,10.0,0.24,loja_fisica,Rio de Janeiro,RJ,
+696,11-08-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,5.0,,ecommerce,Pimenta,GO,
+697,06-12-2024,,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,3.0,,loja_fisica,Belo Horizonte,MG,
+698,17-11-2024,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,5.0,0.22,loja_fisica,Belo Horizonte,MG,
+699,20-06-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.04,ecommerce,Oliveira de Minas,AL,
+700,07-06-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,1.0,0.26,loja_fisica,Belo Horizonte,MG,
+701,28-08-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.14,ecommerce,Moreira,MG,Id hic quasi veniam quam non non beatae at maxime similique suscipit incidunt rem quos architecto similique.
+702,28-05-2025,,,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.07,ecommerce,Moura,BA,
+703,16-04-2025,4.0,Ana Oliveira,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.21,loja_fisica,Salvador,BA,
+704,24-06-2025,,,104,Camisa Polo,Vestuário,120.0,8.0,0.08,ecommerce,Cassiano,SP,
+705,21-11-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,8.0,0.02,ecommerce,Moura,SP,
+706,24-08-2024,4.0,Ana Oliveira,102,Cafeteira 20L,Eletrodomésticos,600.0,1.0,0.05,loja_fisica,Salvador,BA,
+707,19-09-2024,1.0,João Silva,104,Camisa Polo,Vestuário,120.0,6.0,0.03,loja_fisica,São Paulo,SP,
+708,25-01-2025,,,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.01,ecommerce,Pires de Pimenta,AL,
+709,24-09-2024,,,104,Camisa Polo,Vestuário,120.0,10.0,0.12,ecommerce,da Conceição Grande,RN,
+710,13-08-2024,,,104,Camisa Polo,Vestuário,120.0,5.0,0.1,ecommerce,Vasconcelos Grande,MT,Molestiae atque quidem fuga saepe delectus illo facilis assumenda similique distinctio.
+711,17-07-2025,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,3.0,0.22,loja_fisica,Belo Horizonte,MG,
+712,05-01-2025,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,1.0,0.05,loja_fisica,Belo Horizonte,MG,
+713,25-10-2024,2.0,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,7.0,0.21,loja_fisica,Rio de Janeiro,RJ,
+714,28-10-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.02,ecommerce,Barros da Prata,MT,Accusamus hic asperiores repudiandae sint tempora assumenda cum nemo vel suscipit dolore reprehenderit earum.
+715,28-06-2025,1.0,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,,loja_fisica,São Paulo,SP,
+716,22-05-2025,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,0.1,loja_fisica,Curitiba,PR,
+717,14-03-2025,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,5.0,,loja_fisica,Salvador,BA,
+718,13-06-2025,,,108,Tablet T10,Eletrônicos,1500.0,4.0,0.0,ecommerce,Azevedo,AC,Molestiae sunt explicabo dolor eos repudiandae repellendus ipsa eos eius ex.
+719,02-07-2025,3.0,Carlos Pereira,104,Camisa Polo,Vestuário,120.0,7.0,0.08,loja_fisica,Curitiba,PR,
+720,20-02-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,,0.07,ecommerce,Pastor,RJ,
+721,31-10-2024,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,4.0,0.18,loja_fisica,São Paulo,SP,Velit reiciendis optio rerum tenetur rerum sapiente ullam pariatur natus nihil repellat tenetur voluptas.
+722,13-04-2025,,,103,Tênis Corrida,Calçados,350.0,4.0,,ecommerce,Peixoto,BA,
+723,15-10-2024,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,10.0,0.11,loja_fisica,Curitiba,PR,
+724,02-01-2025,,,105,Smartphone A9,Eletrônicos,2800.0,8.0,0.09,ecommerce,Nogueira,AL,Explicabo corporis delectus esse nostrum consectetur quo doloremque ipsam.
+725,07-01-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,7.0,0.01,ecommerce,Pereira,AP,
+726,20-12-2024,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,7.0,0.2,loja_fisica,Salvador,BA,Soluta distinctio culpa incidunt sint tenetur eligendi tenetur unde nisi eius repudiandae laudantium fugit laudantium placeat magnam.
+727,12-01-2025,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,5.0,0.16,loja_fisica,Belo Horizonte,MG,
+728,21-03-2025,,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,10.0,0.16,loja_fisica,Rio de Janeiro,RJ,
+729,24-08-2024,4.0,Ana Oliveira,101,Notebook X1,Eletrônicos,3500.0,7.0,0.03,loja_fisica,Salvador,BA,
+730,28-02-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,4.0,0.1,ecommerce,Barbosa,SE,Fuga harum modi non quaerat in laudantium voluptates quam dicta.
+731,23-02-2025,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,8.0,0.25,loja_fisica,São Paulo,SP,
+732,17-01-2025,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,7.0,0.19,loja_fisica,Rio de Janeiro,RJ,Inventore illum commodi voluptas cum quibusdam itaque facilis ullam autem asperiores modi eius nesciunt vero suscipit optio animi totam ducimus praesentium ipsam porro expedita alias.
+733,29-10-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,10.0,0.13,ecommerce,Gomes de Pacheco,MA,
+734,16-12-2024,3.0,Carlos Pereira,104,Camisa Polo,Vestuário,120.0,1.0,0.15,loja_fisica,Curitiba,PR,
+735,16-09-2024,,,108,Tablet T10,Eletrônicos,1500.0,9.0,0.02,ecommerce,Vieira da Mata,AL,
+736,30-03-2025,2.0,Maria Souza,102,Cafeteira 20L,Eletrodomésticos,600.0,2.0,0.1,loja_fisica,Rio de Janeiro,RJ,
+737,30-09-2024,4.0,Ana Oliveira,101,Notebook X1,Eletrônicos,3500.0,9.0,0.22,loja_fisica,Salvador,BA,
+738,27-10-2024,2.0,Maria Souza,105,Smartphone A9,Eletrônicos,2800.0,7.0,0.05,loja_fisica,Rio de Janeiro,RJ,
+739,02-06-2025,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,4.0,0.14,loja_fisica,Curitiba,PR,
+740,14-05-2025,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,4.0,0.06,loja_fisica,Rio de Janeiro,RJ,
+741,04-12-2024,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,8.0,0.25,loja_fisica,São Paulo,SP,Vitae facere cumque provident tempora voluptate molestiae odio illum nihil eum occaecati voluptates.
+742,08-03-2025,,,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.12,ecommerce,Martins de Santos,PR,
+743,16-10-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.13,ecommerce,Mendes de Cunha,MA,
+744,25-05-2025,,,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.14,ecommerce,Azevedo do Norte,PR,
+745,14-07-2025,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,10.0,0.25,loja_fisica,São Paulo,SP,
+746,30-12-2024,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.2,loja_fisica,Salvador,BA,
+747,04-11-2024,5.0,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,10.0,0.04,loja_fisica,Belo Horizonte,MG,Dolores occaecati labore voluptatibus delectus modi reprehenderit fugit facere.
+748,20-07-2025,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,1.0,0.22,loja_fisica,São Paulo,SP,
+749,26-03-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,1.0,,ecommerce,Fogaça,RS,Asperiores nihil aperiam accusantium reprehenderit iusto aspernatur sapiente sequi tenetur saepe aliquam repellat iste unde nulla eius nam.
+750,06-05-2025,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,9.0,0.21,loja_fisica,Belo Horizonte,MG,
+751,12-05-2025,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,5.0,0.29,loja_fisica,Belo Horizonte,MG,
+752,26-09-2024,,,108,Tablet T10,Eletrônicos,1500.0,9.0,0.13,ecommerce,Correia,AP,
+753,29-03-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,3.0,0.12,loja_fisica,Belo Horizonte,MG,Cupiditate voluptatem accusantium incidunt magni nobis porro nostrum ad accusamus rem quo maiores ipsum in aut ullam illum.
+754,03-12-2024,2.0,Maria Souza,101,Notebook X1,Eletrônicos,3500.0,5.0,0.28,loja_fisica,Rio de Janeiro,RJ,
+755,02-09-2024,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,5.0,0.09,loja_fisica,Curitiba,PR,Cum unde mollitia illum nesciunt dolor quas dolorem esse quae vero quasi enim dicta illo temporibus deleniti deleniti at.
+756,16-02-2025,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,8.0,0.27,loja_fisica,São Paulo,SP,
+757,24-03-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,3.0,0.0,loja_fisica,Curitiba,PR,
+758,04-10-2024,4.0,,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.2,loja_fisica,Salvador,BA,
+759,26-12-2024,,,108,Tablet T10,Eletrônicos,1500.0,7.0,0.1,ecommerce,Viana,TO,
+760,04-12-2024,5.0,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.22,loja_fisica,Belo Horizonte,MG,Assumenda id ipsa rem rerum rerum quae id praesentium accusamus omnis officiis sunt nesciunt.
+761,24-09-2024,,,101,Notebook X1,Eletrônicos,3500.0,2.0,0.05,ecommerce,da Rosa,SE,
+762,07-12-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,2.0,,loja_fisica,Rio de Janeiro,RJ,
+763,09-10-2024,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,2.0,0.06,loja_fisica,Salvador,BA,
+764,27-10-2024,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,2.0,0.11,loja_fisica,Belo Horizonte,MG,
+765,28-07-2024,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.29,loja_fisica,Rio de Janeiro,RJ,
+766,11-02-2025,1.0,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,3.0,0.27,loja_fisica,São Paulo,SP,
+767,19-12-2024,3.0,Carlos Pereira,103,Tênis Corrida,Calçados,350.0,7.0,0.22,loja_fisica,Curitiba,PR,Laudantium ex alias tempora molestias excepturi nesciunt modi a beatae ipsam consequatur aperiam eum quam nostrum eaque iusto similique.
+768,30-10-2024,,,103,Tênis Corrida,Calçados,350.0,9.0,0.15,ecommerce,Souza Alegre,CE,Dignissimos debitis amet commodi quidem numquam molestiae architecto tenetur quaerat eligendi itaque dolorum.
+769,26-02-2025,5.0,,102,Cafeteira 20L,Eletrodomésticos,600.0,4.0,0.12,loja_fisica,Belo Horizonte,MG,
+770,31-12-2024,4.0,Ana Oliveira,110,Fone Bluetooth B1,Eletrônicos,200.0,4.0,,loja_fisica,Salvador,BA,
+771,05-11-2024,,,103,Tênis Corrida,Calçados,350.0,10.0,0.09,ecommerce,Moura,DF,Cupiditate consectetur voluptatum dolorem eius similique est vero mollitia debitis optio.
+772,25-09-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.11,ecommerce,Castro,PB,
+773,15-12-2024,,,103,Tênis Corrida,Calçados,350.0,3.0,0.06,ecommerce,da Cruz de Goiás,PI,
+774,19-10-2024,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,8.0,0.14,loja_fisica,São Paulo,SP,
+775,16-10-2024,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,9.0,0.07,loja_fisica,Belo Horizonte,MG,
+776,08-06-2025,1.0,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,2.0,0.14,loja_fisica,São Paulo,SP,
+777,09-08-2024,,Maria Souza,102,Cafeteira 20L,Eletrodomésticos,600.0,4.0,0.25,loja_fisica,Rio de Janeiro,RJ,
+778,12-08-2024,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.07,loja_fisica,São Paulo,SP,
+779,26-10-2024,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,5.0,0.21,loja_fisica,Salvador,BA,
+780,30-12-2024,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,2.0,0.1,loja_fisica,Salvador,BA,
+781,17-03-2025,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.23,loja_fisica,Rio de Janeiro,RJ,
+782,29-10-2024,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.26,loja_fisica,Salvador,BA,Tenetur odio deserunt est excepturi labore ipsum molestiae pariatur nobis temporibus tempore nulla voluptatum.
+783,17-12-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,8.0,,ecommerce,Rocha da Serra,PA,
+784,14-02-2025,2.0,,107,Jaqueta Esportiva,Vestuário,250.0,1.0,0.07,loja_fisica,Rio de Janeiro,RJ,
+785,17-05-2025,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,4.0,0.22,loja_fisica,Rio de Janeiro,RJ,
+786,16-06-2025,,,104,Camisa Polo,Vestuário,120.0,10.0,0.12,ecommerce,Oliveira,MS,
+787,08-04-2025,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,3.0,,loja_fisica,São Paulo,SP,Quisquam aliquam molestiae consectetur sapiente veritatis fugit reiciendis ad explicabo possimus quos veniam nesciunt incidunt.
+788,19-10-2024,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,1.0,0.29,loja_fisica,Belo Horizonte,MG,
+789,25-08-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,4.0,0.04,ecommerce,Marques,MS,
+790,28-08-2024,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.16,loja_fisica,Belo Horizonte,MG,
+791,10-07-2025,1.0,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,0.24,loja_fisica,São Paulo,SP,
+792,21-01-2025,,,104,Camisa Polo,Vestuário,120.0,10.0,,ecommerce,Cardoso do Norte,SC,At animi saepe nobis omnis eos debitis a ipsam sapiente.
+793,06-05-2025,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.19,loja_fisica,Rio de Janeiro,RJ,
+794,15-07-2025,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,7.0,0.29,loja_fisica,São Paulo,SP,
+795,25-10-2024,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,5.0,0.08,loja_fisica,Salvador,BA,Magnam soluta aliquam voluptates dolore delectus itaque natus est asperiores fugiat culpa suscipit.
+796,06-12-2024,,,108,Tablet T10,Eletrônicos,1500.0,9.0,0.07,ecommerce,Cavalcante das Flores,PA,Culpa mollitia tenetur laborum facilis ex officiis maxime vitae odio nostrum quo cum.
+797,04-10-2024,,Fernando Costa,104,Camisa Polo,Vestuário,120.0,3.0,0.25,loja_fisica,Belo Horizonte,MG,
+798,04-10-2024,,,103,Tênis Corrida,Calçados,350.0,5.0,0.08,ecommerce,Rocha da Prata,MA,
+799,07-01-2025,1.0,João Silva,104,Camisa Polo,Vestuário,120.0,6.0,,loja_fisica,São Paulo,SP,Incidunt enim beatae hic nihil ipsam corporis libero eveniet ut earum quidem veniam placeat.
+800,31-12-2024,,,104,Camisa Polo,Vestuário,120.0,4.0,0.01,ecommerce,Rocha Grande,ES,Quaerat officiis optio provident possimus tempore qui vitae nostrum dolore adipisci.
+801,05-12-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.15,ecommerce,Camargo,CE,
+802,22-07-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.12,ecommerce,Macedo,PA,
+803,29-07-2024,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,2.0,0.05,loja_fisica,Curitiba,PR,Eius incidunt nostrum a distinctio ratione enim ipsam quod ipsum minima quisquam provident libero expedita nostrum.
+804,25-06-2025,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.12,loja_fisica,Rio de Janeiro,RJ,Ullam ullam voluptates similique unde ratione ducimus aliquid ad nostrum necessitatibus officiis.
+805,11-06-2025,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,1.0,,loja_fisica,Salvador,BA,
+806,04-03-2025,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.12,loja_fisica,São Paulo,SP,Beatae laudantium beatae deserunt cumque sint sequi modi ea autem fuga corporis perspiciatis labore.
+807,07-05-2025,3.0,Carlos Pereira,103,Tênis Corrida,Calçados,350.0,4.0,0.16,loja_fisica,Curitiba,PR,
+808,17-10-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,4.0,0.14,ecommerce,Caldeira,SE,
+809,21-09-2024,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,10.0,0.14,loja_fisica,Curitiba,PR,Itaque quas labore fugit culpa cumque odio dicta alias commodi sint rerum dignissimos.
+810,31-03-2025,4.0,Ana Oliveira,109,Liquidificador X,Eletrodomésticos,300.0,3.0,0.15,loja_fisica,Salvador,BA,
+811,02-06-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,6.0,0.01,ecommerce,Jesus,RO,
+812,12-03-2025,,,101,Notebook X1,Eletrônicos,3500.0,7.0,0.06,ecommerce,,,
+813,10-04-2025,1.0,,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.19,loja_fisica,São Paulo,SP,
+814,30-07-2024,,,108,Tablet T10,Eletrônicos,1500.0,7.0,0.02,ecommerce,Novaes,RS,
+815,14-04-2025,5.0,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,4.0,0.08,loja_fisica,Belo Horizonte,MG,
+816,15-11-2024,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,10.0,0.21,loja_fisica,São Paulo,SP,
+817,10-08-2024,1.0,João Silva,109,Liquidificador X,Eletrodomésticos,300.0,8.0,0.01,loja_fisica,São Paulo,SP,Occaecati culpa a laboriosam eaque id similique maiores soluta quod vero officia tempora maxime.
+818,11-02-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,10.0,0.21,loja_fisica,Curitiba,PR,
+819,05-11-2024,2.0,Maria Souza,102,Cafeteira 20L,Eletrodomésticos,600.0,6.0,0.21,loja_fisica,Rio de Janeiro,RJ,
+820,31-10-2024,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,7.0,,loja_fisica,São Paulo,SP,Debitis maiores commodi similique laborum quis inventore iure cum eveniet vel hic repellat.
+821,10-12-2024,2.0,Maria Souza,102,Cafeteira 20L,Eletrodomésticos,600.0,2.0,0.28,loja_fisica,Rio de Janeiro,RJ,
+822,16-01-2025,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.11,loja_fisica,Salvador,BA,
+823,17-07-2025,,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.15,loja_fisica,São Paulo,SP,Consequuntur molestiae aspernatur natus sint accusamus veritatis sit ut incidunt accusantium dignissimos perferendis voluptatum officiis at iure accusantium architecto voluptatem itaque.
+824,30-12-2024,4.0,Ana Oliveira,101,Notebook X1,Eletrônicos,3500.0,4.0,0.15,loja_fisica,Salvador,BA,Nostrum adipisci harum hic alias sed id placeat eos voluptatum ipsum corrupti labore quod.
+825,17-11-2024,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,3.0,0.14,loja_fisica,São Paulo,SP,
+826,03-05-2025,3.0,,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.23,loja_fisica,Curitiba,PR,Culpa quis veritatis quidem dignissimos autem aspernatur error laboriosam quibusdam autem labore beatae dolorum quod omnis.
+827,08-08-2024,5.0,Fernando Costa,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,0.1,loja_fisica,Belo Horizonte,MG,Sunt excepturi praesentium temporibus tempore quos explicabo facere tenetur earum hic esse soluta adipisci unde ipsa.
+828,02-08-2024,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,5.0,0.25,loja_fisica,Rio de Janeiro,RJ,Est voluptatum doloremque laudantium ullam officia odit reprehenderit amet.
+829,01-08-2024,,,108,Tablet T10,Eletrônicos,1500.0,9.0,0.11,ecommerce,Aparecida,RN,
+830,16-03-2025,3.0,Carlos Pereira,101,Notebook X1,Eletrônicos,,4.0,0.01,loja_fisica,Curitiba,PR,Sit aspernatur neque velit doloremque aspernatur tenetur molestias repellendus consectetur autem.
+831,01-04-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.11,ecommerce,da Conceição de Casa Grande,RJ,
+832,08-02-2025,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.03,loja_fisica,São Paulo,SP,
+833,07-10-2024,5.0,,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.15,loja_fisica,Belo Horizonte,MG,
+834,24-10-2024,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,8.0,0.01,loja_fisica,Rio de Janeiro,RJ,
+835,07-08-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,7.0,0.03,ecommerce,Porto,RS,
+836,04-11-2024,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,7.0,0.08,loja_fisica,Belo Horizonte,MG,
+837,10-12-2024,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,9.0,0.08,loja_fisica,Curitiba,PR,
+838,25-09-2024,,,103,Tênis Corrida,Calçados,350.0,10.0,0.04,ecommerce,Guerra das Pedras,SP,
+839,05-12-2024,1.0,,109,Liquidificador X,Eletrodomésticos,300.0,4.0,0.24,loja_fisica,São Paulo,SP,
+840,03-07-2025,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,6.0,0.17,loja_fisica,São Paulo,SP,Ad voluptatem vel consequuntur cupiditate voluptatum neque distinctio libero sunt eos itaque voluptatem repellendus occaecati eos ducimus repellat ipsa esse voluptas laudantium.
+841,27-10-2024,,,105,Smartphone A9,Eletrônicos,2800.0,2.0,0.08,ecommerce,Pacheco,AL,
+842,01-11-2024,3.0,Carlos Pereira,101,Notebook X1,Eletrônicos,3500.0,6.0,0.29,loja_fisica,Curitiba,PR,
+843,16-08-2024,4.0,,105,Smartphone A9,Eletrônicos,2800.0,9.0,0.07,loja_fisica,Salvador,BA,
+844,25-08-2024,,,104,Camisa Polo,Vestuário,120.0,9.0,,ecommerce,,,
+845,19-02-2025,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,10.0,0.07,loja_fisica,Curitiba,PR,
+846,10-05-2025,,,108,Tablet T10,Eletrônicos,1500.0,1.0,0.07,ecommerce,Fernandes de Ramos,SC,Fugiat natus saepe harum quaerat numquam accusamus aliquid aspernatur vel alias soluta officia magni reprehenderit corrupti.
+847,27-10-2024,5.0,Fernando Costa,103,Tênis Corrida,Calçados,350.0,9.0,0.27,loja_fisica,Belo Horizonte,MG,
+848,02-11-2024,,,108,Tablet T10,Eletrônicos,1500.0,5.0,0.04,ecommerce,Vargas,PE,Numquam nisi quasi nulla autem impedit in asperiores sapiente.
+849,03-03-2025,5.0,Fernando Costa,109,Liquidificador X,Eletrodomésticos,300.0,1.0,0.02,loja_fisica,Belo Horizonte,MG,
+850,21-07-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.05,ecommerce,Mendes,MA,Hic dignissimos praesentium mollitia nesciunt at omnis illo dolorem quod cum animi dolores consequuntur earum corporis unde fuga voluptas.
+851,19-06-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,3.0,0.03,ecommerce,Melo de Minas,MG,
+852,06-08-2024,4.0,,107,Jaqueta Esportiva,Vestuário,250.0,2.0,0.06,loja_fisica,Salvador,BA,
+853,27-05-2025,5.0,Fernando Costa,106,Headset Gamer H1,Eletrônicos,450.0,6.0,0.18,loja_fisica,Belo Horizonte,MG,
+854,11-04-2025,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,,3.0,0.2,loja_fisica,Curitiba,PR,
+855,05-05-2025,,,108,Tablet T10,Eletrônicos,1500.0,1.0,0.06,ecommerce,Moura,AL,Commodi distinctio asperiores libero laudantium sequi ullam perspiciatis fuga consectetur architecto ratione animi velit perferendis ea itaque eligendi.
+856,06-05-2025,,,103,Tênis Corrida,Calçados,350.0,10.0,0.02,ecommerce,Alves,RR,
+857,02-05-2025,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,9.0,0.21,loja_fisica,Curitiba,PR,Tenetur dolor dolor doloremque facere distinctio incidunt architecto nemo quis.
+858,17-05-2025,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,5.0,,loja_fisica,Salvador,BA,Nostrum laboriosam quibusdam nobis optio odit necessitatibus iure nam placeat explicabo quae cum reiciendis quia.
+859,12-05-2025,,,103,Tênis Corrida,Calçados,350.0,8.0,,ecommerce,Cavalcanti,SE,Quod nulla laboriosam officiis animi consectetur quas odit commodi fuga voluptatibus ut corrupti.
+860,08-06-2025,5.0,Fernando Costa,109,Liquidificador X,Eletrodomésticos,300.0,5.0,0.18,loja_fisica,Belo Horizonte,MG,Maxime amet sint illum corrupti architecto accusantium saepe rem.
+861,19-04-2025,,,108,Tablet T10,Eletrônicos,1500.0,8.0,0.1,ecommerce,Sá Grande,SP,Nihil velit cumque odio quae hic ea architecto consequuntur ut molestiae culpa quaerat.
+862,26-02-2025,,,108,Tablet T10,Eletrônicos,1500.0,1.0,0.13,ecommerce,Moreira,MA,
+863,11-03-2025,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.01,loja_fisica,Curitiba,PR,
+864,21-01-2025,,,104,Camisa Polo,Vestuário,120.0,8.0,0.15,ecommerce,Montenegro do Sul,PA,
+865,27-01-2025,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,10.0,0.23,loja_fisica,São Paulo,SP,Harum eveniet est cum facilis ratione accusantium cupiditate aliquid vel earum distinctio animi.
+866,13-04-2025,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.16,loja_fisica,Rio de Janeiro,RJ,Sed magni minima recusandae reiciendis harum ipsam provident illo voluptatem.
+867,20-11-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,0.12,ecommerce,Ribeiro,PE,
+868,24-05-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.08,ecommerce,Albuquerque,RO,
+869,28-08-2024,4.0,Ana Oliveira,102,Cafeteira 20L,Eletrodomésticos,600.0,8.0,0.05,loja_fisica,Salvador,BA,
+870,22-03-2025,,João Silva,101,Notebook X1,Eletrônicos,3500.0,4.0,0.15,loja_fisica,São Paulo,SP,
+871,21-07-2025,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,2.0,0.06,loja_fisica,Rio de Janeiro,RJ,Ipsam eius nesciunt harum repellat illum laudantium iusto maiores placeat inventore illum magnam at deleniti est officia incidunt alias quidem architecto porro eum aperiam.
+872,12-09-2024,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,5.0,0.29,loja_fisica,Curitiba,PR,
+873,23-02-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,3.0,0.06,ecommerce,Lopes das Pedras,CE,
+874,09-07-2025,,,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.04,ecommerce,Silveira,AP,
+875,30-06-2025,2.0,Maria Souza,102,Cafeteira 20L,Eletrodomésticos,600.0,1.0,0.24,loja_fisica,Rio de Janeiro,RJ,
+876,04-08-2024,,,106,Headset Gamer H1,Eletrônicos,450.0,7.0,0.14,ecommerce,Sá dos Dourados,ES,
+877,01-07-2025,4.0,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,5.0,,loja_fisica,Salvador,BA,
+878,08-11-2024,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,8.0,0.18,loja_fisica,Salvador,BA,
+879,14-09-2024,,,102,Cafeteira 20L,Eletrodomésticos,600.0,7.0,0.05,ecommerce,Barros,ES,
+880,02-06-2025,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,3.0,0.1,loja_fisica,Curitiba,PR,
+881,30-10-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,1.0,,loja_fisica,Rio de Janeiro,RJ,
+882,12-07-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,10.0,,loja_fisica,Curitiba,PR,
+883,02-03-2025,1.0,João Silva,106,Headset Gamer H1,Eletrônicos,450.0,2.0,0.12,loja_fisica,São Paulo,SP,
+884,15-04-2025,3.0,Carlos Pereira,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.1,loja_fisica,Curitiba,PR,Aliquid officiis itaque rem distinctio enim quae numquam laudantium sunt necessitatibus alias odio cupiditate.
+885,25-10-2024,1.0,João Silva,104,Camisa Polo,Vestuário,120.0,3.0,0.08,loja_fisica,São Paulo,SP,
+886,06-04-2025,1.0,João Silva,108,Tablet T10,Eletrônicos,1500.0,7.0,0.01,loja_fisica,São Paulo,SP,Explicabo voluptatum repellat nisi magni quasi impedit aut iste corporis sit ratione maxime quibusdam nemo nostrum possimus veritatis incidunt minima.
+887,24-12-2024,4.0,Ana Oliveira,101,Notebook X1,Eletrônicos,3500.0,4.0,0.01,loja_fisica,Salvador,BA,Autem quod incidunt dicta repellat sed tempora facere facilis assumenda omnis commodi cum fugit.
+888,01-04-2025,1.0,João Silva,109,Liquidificador X,Eletrodomésticos,300.0,8.0,0.11,loja_fisica,São Paulo,SP,
+889,17-09-2024,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,,8.0,0.11,loja_fisica,Belo Horizonte,MG,
+890,09-01-2025,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,,4.0,0.03,loja_fisica,Curitiba,PR,
+891,06-12-2024,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,2.0,0.15,loja_fisica,Rio de Janeiro,RJ,
+892,08-02-2025,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,4.0,0.2,loja_fisica,Belo Horizonte,MG,Unde consequuntur iste necessitatibus quis dolor deserunt provident quaerat sequi aliquid placeat quo recusandae quo eveniet.
+893,28-12-2024,4.0,Ana Oliveira,102,Cafeteira 20L,Eletrodomésticos,600.0,9.0,,loja_fisica,Salvador,BA,Esse officiis aliquid vero temporibus consectetur cupiditate facere maxime voluptatum delectus adipisci.
+894,01-07-2025,4.0,Ana Oliveira,110,Fone Bluetooth B1,Eletrônicos,200.0,10.0,0.28,loja_fisica,Salvador,BA,Quia architecto possimus maxime dicta quo ratione harum quas voluptatum id veniam cumque eaque pariatur porro pariatur ullam laudantium.
+895,11-08-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,4.0,0.14,ecommerce,Borges,CE,
+896,28-05-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,1.0,0.13,loja_fisica,Belo Horizonte,MG,Atque tempore vitae recusandae maiores ullam iusto id ex iure eos vitae nemo maiores.
+897,28-07-2024,,,110,Fone Bluetooth B1,Eletrônicos,200.0,2.0,0.08,ecommerce,Abreu da Prata,MT,
+898,17-02-2025,,,108,Tablet T10,Eletrônicos,1500.0,2.0,,ecommerce,Aragão Alegre,DF,
+899,21-11-2024,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,6.0,0.26,loja_fisica,Curitiba,PR,Quidem dolorum quis impedit quisquam quae praesentium laudantium sint esse dignissimos assumenda provident.
+900,10-01-2025,1.0,João Silva,101,Notebook X1,Eletrônicos,3500.0,5.0,0.05,loja_fisica,São Paulo,SP,
+901,03-01-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.05,ecommerce,Siqueira,AC,
+902,27-08-2024,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.17,loja_fisica,São Paulo,SP,
+903,01-07-2025,,João Silva,107,Jaqueta Esportiva,Vestuário,250.0,3.0,0.27,loja_fisica,São Paulo,SP,
+904,04-09-2024,2.0,Maria Souza,101,Notebook X1,Eletrônicos,3500.0,6.0,0.15,loja_fisica,Rio de Janeiro,RJ,
+905,21-04-2025,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,8.0,0.05,loja_fisica,Salvador,BA,
+906,09-12-2024,4.0,Ana Oliveira,102,Cafeteira 20L,Eletrodomésticos,600.0,3.0,0.05,loja_fisica,Salvador,BA,
+907,29-08-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,8.0,0.07,loja_fisica,Rio de Janeiro,RJ,Laboriosam quaerat temporibus aspernatur officia deleniti cumque sed esse aut.
+908,17-05-2025,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,4.0,0.03,loja_fisica,Rio de Janeiro,RJ,
+909,06-04-2025,2.0,Maria Souza,101,Notebook X1,Eletrônicos,3500.0,9.0,0.26,loja_fisica,Rio de Janeiro,RJ,
+910,02-01-2025,,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,9.0,0.11,loja_fisica,Curitiba,PR,
+911,12-05-2025,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,10.0,0.19,loja_fisica,Rio de Janeiro,RJ,Cum quas nulla cupiditate a magnam soluta culpa ab deserunt nulla dolorum asperiores ipsam fugiat.
+912,02-05-2025,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,10.0,0.13,loja_fisica,Rio de Janeiro,RJ,
+913,04-05-2025,,,104,Camisa Polo,Vestuário,120.0,9.0,0.13,ecommerce,Vasconcelos da Mata,MS,
+914,25-03-2025,,,101,Notebook X1,Eletrônicos,3500.0,9.0,0.08,ecommerce,Silva da Prata,SC,
+915,01-10-2024,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,4.0,0.1,loja_fisica,Curitiba,PR,
+916,18-05-2025,,,110,Fone Bluetooth B1,Eletrônicos,200.0,8.0,0.14,ecommerce,Cunha da Serra,MS,Suscipit corrupti vero eos ipsa minima doloribus exercitationem officia fugit repellendus possimus quo aliquid.
+917,20-09-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,6.0,0.03,loja_fisica,Rio de Janeiro,RJ,
+918,26-12-2024,,Fernando Costa,101,Notebook X1,Eletrônicos,3500.0,5.0,0.08,loja_fisica,Belo Horizonte,MG,
+919,18-09-2024,3.0,,106,Headset Gamer H1,Eletrônicos,450.0,7.0,0.09,loja_fisica,Curitiba,PR,
+920,19-02-2025,4.0,Ana Oliveira,106,Headset Gamer H1,Eletrônicos,450.0,1.0,0.04,loja_fisica,Salvador,BA,
+921,07-07-2025,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,4.0,0.1,loja_fisica,Curitiba,PR,Cupiditate atque velit enim quaerat pariatur quasi totam blanditiis in in eum.
+922,12-11-2024,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.18,loja_fisica,Belo Horizonte,MG,
+923,03-05-2025,,,103,Tênis Corrida,Calçados,350.0,2.0,0.1,ecommerce,Nascimento,RS,
+924,17-03-2025,,,103,Tênis Corrida,Calçados,350.0,7.0,0.09,ecommerce,da Paz,BA,
+925,09-07-2025,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,3.0,0.1,loja_fisica,Belo Horizonte,MG,
+926,27-09-2024,3.0,,109,Liquidificador X,Eletrodomésticos,300.0,6.0,0.24,loja_fisica,Curitiba,PR,Quibusdam nulla iusto ea est pariatur dolore tempora quam perferendis cum totam explicabo.
+927,21-08-2024,3.0,Carlos Pereira,107,Jaqueta Esportiva,Vestuário,250.0,4.0,0.19,loja_fisica,Curitiba,PR,Quisquam quaerat repellendus expedita recusandae blanditiis repellendus nostrum optio vel sit rem quos nemo.
+928,21-11-2024,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,1.0,0.13,loja_fisica,São Paulo,SP,
+929,23-09-2024,4.0,Ana Oliveira,104,Camisa Polo,Vestuário,120.0,1.0,0.12,loja_fisica,Salvador,BA,
+930,18-06-2025,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,5.0,0.1,loja_fisica,Salvador,BA,
+931,22-03-2025,,,104,Camisa Polo,Vestuário,120.0,2.0,0.05,ecommerce,Machado do Oeste,PE,Expedita repellendus non atque earum blanditiis id neque debitis doloremque animi quibusdam nemo nesciunt inventore porro alias recusandae accusantium molestias praesentium aut.
+932,02-06-2025,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,1.0,0.16,loja_fisica,Belo Horizonte,MG,Dolorum aspernatur odit repudiandae rerum perspiciatis repellendus quidem expedita eligendi et iste cupiditate dolor in itaque similique aut odit nihil porro quasi numquam.
+933,21-02-2025,2.0,Maria Souza,107,Jaqueta Esportiva,Vestuário,250.0,8.0,0.2,loja_fisica,Rio de Janeiro,RJ,Rerum qui quibusdam officia inventore odit similique fugiat tempore commodi occaecati.
+934,11-07-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.0,ecommerce,Lopes dos Dourados,AL,Occaecati repudiandae deserunt veniam tempore ducimus eius doloribus ab saepe.
+935,21-05-2025,3.0,Carlos Pereira,104,Camisa Polo,Vestuário,120.0,2.0,0.16,loja_fisica,Curitiba,PR,Minima et quo eligendi omnis deleniti minus quos amet adipisci maxime atque.
+936,04-09-2024,,,108,Tablet T10,Eletrônicos,1500.0,9.0,0.12,ecommerce,Pacheco,SC,
+937,29-03-2025,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,,0.25,loja_fisica,Curitiba,PR,Repellendus earum recusandae provident labore dolorem recusandae eum aliquid ipsum sequi rerum culpa quidem harum animi vitae nihil.
+938,22-07-2025,5.0,Fernando Costa,104,Camisa Polo,Vestuário,120.0,1.0,0.27,loja_fisica,Belo Horizonte,MG,
+939,01-02-2025,1.0,João Silva,102,Cafeteira 20L,Eletrodomésticos,600.0,10.0,0.14,loja_fisica,São Paulo,SP,
+940,07-04-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,9.0,0.09,ecommerce,Moura,SE,
+941,08-02-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,1.0,0.06,ecommerce,,,
+942,24-04-2025,3.0,Carlos Pereira,108,Tablet T10,Eletrônicos,1500.0,9.0,,loja_fisica,Curitiba,PR,Voluptas tenetur nisi fuga quod non quidem debitis odio porro maxime ullam necessitatibus.
+943,17-10-2024,3.0,Carlos Pereira,101,Notebook X1,Eletrônicos,3500.0,10.0,0.13,loja_fisica,Curitiba,PR,
+944,18-12-2024,1.0,João Silva,105,Smartphone A9,Eletrônicos,2800.0,10.0,0.26,loja_fisica,São Paulo,SP,Saepe veniam odio sunt officia inventore placeat labore est facilis consectetur.
+945,29-04-2025,,,103,Tênis Corrida,Calçados,350.0,1.0,0.08,ecommerce,da Mata da Praia,MS,
+946,21-06-2025,1.0,João Silva,104,Camisa Polo,Vestuário,120.0,2.0,0.11,loja_fisica,São Paulo,SP,
+947,28-11-2024,3.0,Carlos Pereira,103,Tênis Corrida,Calçados,350.0,2.0,0.17,loja_fisica,Curitiba,PR,Pariatur sint repellat officiis aperiam eos quam minima.
+948,11-07-2025,5.0,Fernando Costa,110,Fone Bluetooth B1,Eletrônicos,200.0,1.0,0.03,loja_fisica,Belo Horizonte,MG,Sint earum voluptas eveniet error nobis officia cumque sunt aliquid necessitatibus impedit ea excepturi.
+949,12-08-2024,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,5.0,0.24,loja_fisica,Belo Horizonte,MG,
+950,17-01-2025,5.0,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,6.0,0.19,loja_fisica,Belo Horizonte,MG,Similique quibusdam porro eligendi consequuntur pariatur repudiandae totam optio omnis asperiores in.
+951,28-10-2024,2.0,Maria Souza,104,Camisa Polo,Vestuário,120.0,7.0,0.04,loja_fisica,Rio de Janeiro,RJ,
+952,09-03-2025,1.0,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,6.0,0.11,loja_fisica,São Paulo,SP,
+953,31-08-2024,5.0,Fernando Costa,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.05,loja_fisica,Belo Horizonte,MG,
+954,25-11-2024,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,9.0,0.23,loja_fisica,Salvador,BA,
+955,29-12-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,2.0,0.11,ecommerce,Camargo de Costa,RO,
+956,24-04-2025,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,8.0,,loja_fisica,Rio de Janeiro,RJ,Esse quaerat similique magnam repellendus aperiam sit dolorum dolorem nulla autem numquam.
+957,07-08-2024,2.0,Maria Souza,108,Tablet T10,Eletrônicos,1500.0,2.0,0.11,loja_fisica,Rio de Janeiro,RJ,
+958,06-06-2025,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,8.0,0.06,loja_fisica,Curitiba,PR,
+959,31-08-2024,,,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.12,ecommerce,Fogaça,RN,Ratione necessitatibus deserunt sed explicabo error saepe voluptatum sapiente cum consectetur id.
+960,28-06-2025,3.0,Carlos Pereira,106,Headset Gamer H1,Eletrônicos,450.0,6.0,0.12,loja_fisica,Curitiba,PR,
+961,05-01-2025,1.0,João Silva,110,Fone Bluetooth B1,Eletrônicos,200.0,10.0,0.02,loja_fisica,São Paulo,SP,
+962,18-10-2024,5.0,Fernando Costa,109,Liquidificador X,Eletrodomésticos,300.0,5.0,0.23,loja_fisica,Belo Horizonte,MG,At architecto alias libero soluta magni non ut consectetur.
+963,19-07-2025,4.0,,109,Liquidificador X,Eletrodomésticos,300.0,5.0,0.26,loja_fisica,Salvador,BA,Optio eligendi modi omnis corrupti magnam.
+964,07-05-2025,,Fernando Costa,105,Smartphone A9,Eletrônicos,2800.0,9.0,0.23,loja_fisica,Belo Horizonte,MG,Rerum odit blanditiis repellat iste impedit provident voluptate ea nulla quidem necessitatibus odio corrupti.
+965,28-09-2024,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,2.0,0.04,loja_fisica,Rio de Janeiro,RJ,Voluptatum reiciendis eveniet placeat unde necessitatibus voluptate suscipit nesciunt nam consequatur dolorum cum placeat nulla quia soluta iste quod.
+966,04-03-2025,3.0,,109,Liquidificador X,Eletrodomésticos,300.0,10.0,0.08,loja_fisica,Curitiba,PR,Tempore ut dolore magnam ex provident porro consectetur fugit sed ut ipsa.
+967,23-08-2024,,,108,Tablet T10,Eletrônicos,1500.0,8.0,0.1,ecommerce,Peixoto,SE,
+968,17-11-2024,,,105,Smartphone A9,Eletrônicos,2800.0,7.0,0.11,ecommerce,Mendes da Mata,BA,Placeat placeat quia blanditiis quaerat eligendi illum debitis doloribus eos illum quidem.
+969,02-08-2024,2.0,Maria Souza,110,Fone Bluetooth B1,Eletrônicos,200.0,10.0,0.19,loja_fisica,Rio de Janeiro,RJ,
+970,27-02-2025,,,106,Headset Gamer H1,Eletrônicos,450.0,1.0,0.03,ecommerce,,,
+971,25-12-2024,2.0,Maria Souza,109,Liquidificador X,Eletrodomésticos,300.0,7.0,0.03,loja_fisica,Rio de Janeiro,RJ,
+972,10-04-2025,5.0,Fernando Costa,104,Camisa Polo,Vestuário,120.0,2.0,0.28,loja_fisica,Belo Horizonte,MG,
+973,19-10-2024,,,107,Jaqueta Esportiva,Vestuário,250.0,7.0,0.12,ecommerce,Macedo de Pinto,PB,
+974,27-05-2025,,,109,Liquidificador X,Eletrodomésticos,300.0,9.0,0.01,ecommerce,Rocha,RN,
+975,15-07-2025,4.0,Ana Oliveira,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,,loja_fisica,Salvador,BA,
+976,25-02-2025,5.0,Fernando Costa,104,Camisa Polo,Vestuário,120.0,8.0,0.23,loja_fisica,Belo Horizonte,MG,
+977,11-05-2025,3.0,Carlos Pereira,109,Liquidificador X,Eletrodomésticos,300.0,5.0,0.17,loja_fisica,Curitiba,PR,Soluta dolor distinctio earum sed asperiores culpa veniam fugit eveniet earum neque illum nihil iure ducimus culpa eveniet.
+978,23-11-2024,,,108,Tablet T10,Eletrônicos,1500.0,10.0,0.09,ecommerce,da Mota,PA,Repudiandae hic ad tempore quas numquam explicabo in ipsam.
+979,26-11-2024,4.0,Ana Oliveira,103,Tênis Corrida,Calçados,350.0,3.0,0.29,loja_fisica,Salvador,BA,
+980,11-06-2025,5.0,Fernando Costa,104,Camisa Polo,Vestuário,120.0,1.0,0.29,loja_fisica,Belo Horizonte,MG,
+981,26-06-2025,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,10.0,0.07,loja_fisica,Rio de Janeiro,RJ,Corrupti perferendis consectetur cupiditate assumenda esse ratione quos omnis consequatur quo dolore eos itaque vitae cupiditate.
+982,03-10-2024,,Fernando Costa,103,Tênis Corrida,Calçados,350.0,3.0,0.08,loja_fisica,Belo Horizonte,MG,
+983,28-02-2025,5.0,Fernando Costa,109,Liquidificador X,Eletrodomésticos,300.0,1.0,0.02,loja_fisica,Belo Horizonte,MG,
+984,17-03-2025,1.0,João Silva,105,Smartphone A9,Eletrônicos,,2.0,0.11,loja_fisica,São Paulo,SP,Ipsum atque nobis voluptatibus saepe occaecati voluptates exercitationem itaque error.
+985,16-07-2025,,,103,Tênis Corrida,Calçados,,9.0,0.15,ecommerce,Melo de Novaes,AL,
+986,15-08-2024,,,108,Tablet T10,Eletrônicos,1500.0,6.0,0.11,ecommerce,,,
+987,09-11-2024,4.0,Ana Oliveira,110,Fone Bluetooth B1,Eletrônicos,200.0,9.0,0.07,loja_fisica,Salvador,BA,
+988,23-04-2025,,,104,Camisa Polo,Vestuário,120.0,5.0,,ecommerce,Campos de Minas,SC,
+989,10-02-2025,4.0,Ana Oliveira,105,Smartphone A9,Eletrônicos,2800.0,4.0,0.18,loja_fisica,Salvador,BA,
+990,06-12-2024,4.0,Ana Oliveira,107,Jaqueta Esportiva,Vestuário,250.0,6.0,0.01,loja_fisica,Salvador,BA,
+991,07-06-2025,2.0,Maria Souza,106,Headset Gamer H1,Eletrônicos,450.0,7.0,0.18,loja_fisica,Rio de Janeiro,RJ,Voluptas eaque natus cumque mollitia quo dolores recusandae alias.
+992,06-01-2025,4.0,,108,Tablet T10,Eletrônicos,1500.0,1.0,0.12,loja_fisica,Salvador,BA,
+993,11-07-2025,3.0,Carlos Pereira,102,Cafeteira 20L,Eletrodomésticos,600.0,5.0,0.12,loja_fisica,Curitiba,PR,Ea provident maxime dignissimos assumenda hic fugit dolor corrupti.
+994,29-12-2024,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,5.0,0.11,loja_fisica,Rio de Janeiro,RJ,Vero alias eligendi corporis commodi dolore porro nobis optio iste harum nobis.
+995,12-11-2024,2.0,Maria Souza,103,Tênis Corrida,Calçados,350.0,4.0,0.15,loja_fisica,Rio de Janeiro,RJ,Architecto deserunt aut vel commodi vero ea atque quos nisi praesentium eaque ducimus nemo sapiente.
+996,31-05-2025,,Fernando Costa,108,Tablet T10,Eletrônicos,,6.0,,loja_fisica,Belo Horizonte,MG,
+997,17-07-2025,3.0,Carlos Pereira,110,Fone Bluetooth B1,Eletrônicos,200.0,5.0,0.28,loja_fisica,Curitiba,PR,
+998,07-09-2024,5.0,Fernando Costa,108,Tablet T10,Eletrônicos,1500.0,2.0,0.17,loja_fisica,Belo Horizonte,MG,
+999,18-02-2025,4.0,Ana Oliveira,108,Tablet T10,Eletrônicos,1500.0,6.0,0.03,loja_fisica,Salvador,BA,In ea illo enim dicta quidem incidunt amet.
+1000,04-04-2025,,,108,Tablet T10,Eletrônicos,1500.0,5.0,,ecommerce,Pastor,AC,

@@ -1,0 +1,34 @@
+resources:
+  jobs:
+    Execute_pipeline:
+      name: Execute_pipeline
+      trigger:
+        pause_status: UNPAUSED
+        file_arrival:
+          url: /Volumes/workspace/default/elt_volume/landing/
+      tasks:
+        - task_key: Execute_process_file_to_parquet
+          notebook_task:
+            notebook_path: /Workspace/Users/eduardo.rtcarvalho@gmail.com/process_file_to_parquet
+            source: WORKSPACE
+        - task_key: Execute_raw_to_bronze
+          depends_on:
+            - task_key: Execute_process_file_to_parquet
+          notebook_task:
+            notebook_path: /Workspace/Users/eduardo.rtcarvalho@gmail.com/bronze_clean
+            source: WORKSPACE
+        - task_key: Execute_bronze_to_silver
+          depends_on:
+            - task_key: Execute_raw_to_bronze
+          notebook_task:
+            notebook_path: /Workspace/Users/eduardo.rtcarvalho@gmail.com/silver_trusted
+            source: WORKSPACE
+        - task_key: Execute_silver_to_gold
+          depends_on:
+            - task_key: Execute_bronze_to_silver
+          notebook_task:
+            notebook_path: /Workspace/Users/eduardo.rtcarvalho@gmail.com/gold_final
+            source: WORKSPACE
+      queue:
+        enabled: true
+      performance_target: STANDARD
